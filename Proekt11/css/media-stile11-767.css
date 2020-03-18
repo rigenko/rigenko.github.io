@@ -1,0 +1,368 @@
+
+ /*	МЕДИА ДЛЯ blok-header*/
+
+ 
+
+
+
+@media (max-width : 767px) {
+
+	
+	/*блок header*/	
+	.header-zag{
+		width: 100%;
+		padding: 0;
+		text-align: center;
+
+	}
+	.header-zag-h1{
+	font-size: 50px;
+
+	}
+
+	.header-navigation li{
+		margin-right: 15px;
+	}
+
+	.header-navigation a{
+		font-size: 12px;
+		
+	}
+	/*--//--*/
+
+	/*sublime*/
+
+	.sublime ul{
+	display: block;
+	}
+
+	.sublime__zag{
+		width: 100%;
+	}
+
+	.sublime_zag p{
+		font-size: 15px;
+	}
+
+	.sublime_zag h3{
+		font-size: 40px;
+	}
+
+	.sublime_text{
+		padding: 0 5px 0 22px;
+		margin-top: 15px;
+	}
+
+	.sublime_text p.text_italic{
+		font-size: 16px;
+		margin-bottom: 20px;
+	}
+
+	.sublime_text p{
+		font-size: 14px;
+	}
+
+	/*row*/
+	
+
+	.sublime_row li{
+		width: 80%;
+		margin-top: 10px;
+	}
+
+	.sublime_row-h4{
+		margin-bottom: 10px;
+	}
+
+	.sublime_row_img{
+		margin-bottom: 15px;
+	}
+
+	.sublime_row_zag{
+		font-size: 20px;
+	}
+
+	.sublime_row_text{
+		font-size: 15px;
+		line-height: 18px;
+	}
+
+	/*Projects*/
+	.Projects_img_1 img{
+		width: 50%;
+		height: auto;
+	}
+
+	.Projects_img_2 img{
+		width: 50%;
+		height: auto;
+	}
+
+	/*--//--*/
+
+	/*Strategic-Process*/
+
+	.Strategic-Process{
+		padding: 5px;
+	}
+
+	.Blok-Strategic-Process-zag{
+		margin-bottom: 10px;
+	}
+
+	.Strategic-Process-zag{
+		margin-top: 10px;
+		text-align: center;
+	}
+
+	.Strategic-Process-ul img{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.Strategic-Process-ul{
+		margin: 10px;
+	}
+
+	.Pidblok-Strategic-Process p{
+		margin-bottom: 10px;
+	}
+
+	.Strategic-Process-ul h4{
+		font-size: 30px;
+		margin-bottom: 10px;
+	}
+
+	.Blok-Our-Process{
+		display: block;
+	}
+
+	.Blok-Outcome{
+		display: block;
+	}
+
+	.Blok-Method{
+		display: block;
+	}
+
+	.Our-Process, .Method{
+		padding: 15px 0 0 15px;
+	}
+
+	.Outcome{
+		padding: 25px 20px 20px 20px;
+	}
+
+	/*--//--*/
+
+	/*blok-Services-Provided*/
+
+	.blok-Services-Provided{
+		display: block;
+	}
+
+	.Services-Provided-ul{
+		width: 100%;
+		margin-top: 10px;
+	}
+
+	.Services-Provided-zag{
+		width: 60%;
+	}
+
+	.Provided-ul-1{
+		margin-right: 20px;
+	}
+
+	.Provided-ul-1,
+	.Provided-ul-2{
+		width: 50%;
+	}
+
+	.Services-Provided-zag{
+		font-size: 20px;
+		color:#fff;
+		padding: 20px 0 0 40px;
+	}
+
+	.Services-Provided-ul{
+		padding: 20px;
+	}
+
+	.Services-Provided-ul p{
+		margin-bottom: 20px;
+	}
+
+	/*blok-Our-Team*/
+	
+	.Our-Team-zag{
+		width: 18%;
+		font-size: 20px;
+		padding: 25px 0 0 15px;
+
+	}
+
+	.Our-Team-galeri{
+		padding: 10px;
+	}
+
+	.Our-Team-galeri-text{
+		padding-right: 10px;
+	}
+
+	.block-galeri{
+		margin-right: 10px;
+	}
+
+	.block-galeri p.text-italic{
+		font-size: 12px;
+	}
+
+	/*blok-Testimonials*/
+
+	.blok-Testimonials{
+		padding-bottom: 35px;
+	}
+
+	.blok-Testimonials-zag{
+		width: 50%;
+		margin: 0 auto;
+	}
+
+	.John-Doe{
+		width: 85%;
+	}
+
+	.John-Doe-text{
+		padding: 30px 0 0 30px;
+	}
+
+	.John-Doe-img{
+		width: 30%;
+		margin-left: 15px;
+	}
+
+	/*--//--*/
+
+	/*blok-Blogs*/
+
+	.blok-Blogs{
+		display: block;
+		padding-bottom: 0;
+		
+	}
+
+	.Blogs{
+		width: 100%;
+		padding: 20px;
+	}
+
+	.Blogs-zag{
+		font-size: 20px;
+		margin-bottom: 15px;
+	}
+
+	.Blogs-galerei{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.Blogs-menu ul{
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+	}
+
+	.Blogs-menu li{
+		margin-bottom: 15px;
+		border-right: 1px solid #161616;
+		padding-left: 5px;
+	}
+
+	.Blogs-menu a{
+		font-size: 10px;
+	}
+
+	.Blogs-galerei{
+		padding: 0 20px 20px 20px;
+	}
+
+	.Blogs-galerei li{
+		width: 100%;
+		margin-right: 20px;
+		text-align: center;
+	}
+
+	.kalendar-zag{
+		font-size: 18px;
+		margin: 10px 0 10px 0;
+	}
+
+	.kalendar-bold{
+		margin-bottom: 10px;
+	}
+
+	/*--//--*/
+
+	/*blok-Contact-Us*/
+
+	.blok-Contact-Us{
+		display: block;
+		padding-bottom: 15px;
+	}
+
+	.blok-mapa{
+		width: 100%;
+	}
+
+	.Contact-Us{
+		width: 100%;
+	}
+
+	.Contact-Us-zag{
+		margin: 0;
+		padding:20px 0 20px 0;
+		text-align: center;
+	}
+
+	.blok-form{
+		width: 70%;
+		margin: 0 auto;
+	}
+	
+	.Location-Map-zag{
+		margin-bottom: 35px;
+	}
+
+	/*--//--*/
+
+	/*blok-We-create*/
+	
+	.We-create-menu{
+		width: 35%;
+		padding-top: 30px;
+	}
+	.We-create-menu-zag{
+		font-size: 30px;
+		margin-bottom: 20px;
+	}
+
+	.We-create-menu-socium{
+		margin-top: 20px;
+	}
+
+	.We-create-bg-2-zag{
+		font-size: 40px;
+		padding:300px 50px 150px 20px;
+	}
+} 
+
+
+
+
+
+ 
+
+

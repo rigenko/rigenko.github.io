@@ -1,0 +1,209 @@
+
+ 
+
+@media (max-width : 1220px) {
+
+/*блок header*/
+
+	.header-zag{
+		
+	}
+	.header-zag_h1{
+		font-size: 120px;
+		
+	}
+
+	.header-menu_zag{
+		font-size: 30px;
+	}
+
+	.header_text{
+		font-size: 20px;
+		
+	}
+
+	.header_link a{
+		font-size: 20px;
+		
+	}
+
+	/*sublime*/
+
+	.sublime_row{
+		margin-top: 20px;
+
+	}
+	
+	.sublime_zag_text{
+		display: block;
+	}
+
+	.sublime_zag{
+		margin: 0 auto;
+		padding: 20px;
+		text-align: center;
+		border-right: none;
+	}
+
+	.sublime_text{
+		width: 90%;
+		margin-top: 20px;
+	}
+
+	/*--//--*/
+
+	/*Projects*/
+
+	.Projects_img_1 img{
+		width: 25%;
+		
+	}
+
+	.Projects_img_2 img{
+		width: 25%;
+	}
+
+	/*--//--*/
+
+	/*Strategic-Process*/
+
+	.Strategic-Process-ul h4{
+		text-align: center;
+		font-size: 40px;
+		margin-bottom: 10px;
+	}
+
+	.Blok-Our-Process, 
+	.Blok-Outcome,
+	.Blok-Method{
+		display: block;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.Our-Process,
+	.Outcome,
+	.Method{
+		padding: 15px 0 15px 0;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.Strategic-Process-ul img{
+		width: 100%;
+	}
+
+	/*--//--*/
+
+	/*blok-Services-Provided*/
+
+	/*--//--*/
+
+	/*blok-Our-Team*/
+
+	.Our-Team-zag{
+		font-size: 25px;
+		padding: 50px 0 0 20px;
+		width: 25%;
+	}
+
+	.Our-Team-galeri{
+		padding: 20px;
+	}
+
+	.Our-Team-galeri-text{
+		padding-right: 10px;
+	}
+
+	.Our-Team-galeri-img img{ 
+		width: 100%;
+	}
+
+	.block-galeri{
+		margin-right: 10px;
+	}
+
+	/*--//--*/
+
+	/*blok-Testimonials*/
+
+	.John-Doe-text{
+		padding: 70px 0 0 40px;
+	}
+
+	/*--//--*/
+
+	/*blok-Blogs*/
+
+	.blok-Blogs{
+		padding-bottom: 25px;
+	}
+
+	.Blogs{
+		width: 30%;
+		padding: 20px 0 0 20px;
+	}
+
+	.Blogs-zag{
+		margin-bottom: 20px;
+	}
+
+	.Blogs-menu{
+		padding-left: 10px;
+	}
+
+	.Blogs-menu li{
+		margin-bottom: 15px;
+	}
+
+	.Blogs-galerei{
+		padding: 20px;
+	}
+
+	.Blogs-galerei li{
+		width: 70%;
+		margin-right: 20px;
+	}
+
+	.Blogs-galerei li:last-child{
+		margin-right: 0;
+	}
+
+	.kalendar img{
+		width: 100%;
+	}
+
+	.kalendar-zag{
+		margin: 10px 0 10px 0;
+	}
+
+	.kalendar-bold{
+		margin-bottom: 10px;
+	}
+	/*--//--*/
+
+	/*blok-Contact-Us*/
+
+	/*--//--*/
+
+	/*blok-We-create*/
+
+	.We-create-menu{
+		
+		padding: 22px 62px 45px 25px;
+	}
+
+	.We-create-menu-zag{
+		font-size: 50px;
+	}
+
+	.We-create-bg-2-zag{
+		padding:260px 80px 145px 25px;
+	}
+	.We-create-bg-2-zag{
+		font-size: 80px;
+	}
+	/*--//--*/
+
+} 
+
