@@ -1,0 +1,201 @@
+
+
+@media (max-width : 767px) {
+
+	
+
+	.header-menu li{
+		padding: 10px 17px 10px 15px;
+	}
+
+	.header-zag{
+		font-size: 32px;
+		margin-top: 50px;
+	}
+
+	/*--//--*/
+
+	/*services*/
+
+	.services-list ul{
+		display: block;
+	}
+
+	.services-list li{
+		max-width: 415px;
+		width: 90%;
+		margin-bottom: 20px;
+	}
+
+	.services-list_zag{
+		margin-top: 30px;
+		font-size: 24px;
+		color:#fff;
+		text-transform: uppercase;
+	}
+
+	.services-list_text{
+		margin-top: 25px;
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	/*--//--*/
+
+	/*team*/
+
+	.team-zag{
+		width: 70%;
+		margin: 0 auto;
+		font-size: 35px;
+	}
+
+	.team-description{
+		width: 70%;
+		font-size: 19px;
+		margin-top: 20px;
+	}
+
+	.team-list ul{
+		display: block;
+	}
+
+	.team-list li{
+		max-width: 500px;
+		width: 90%;
+		margin-bottom: 25px;
+	}
+
+	.team-list_img{
+		margin: 0 auto;
+		max-width: 203px;
+		height: 203px;
+	}
+
+	.team-list_zag{
+		font-size: 24px;
+		margin-top: 40px;
+	}
+
+	.team-list_text{
+		height: 100px;
+		font-size: 18px;
+		color:#3c4761;
+		margin-top: 20px;
+	}
+
+	.team-list_social{
+		margin-top: 15px;
+	}
+
+	.team-list_social img{
+		margin-right: 13px;
+	}
+
+	/*--//--*/
+
+	/*skills*/
+	
+	.skills-zag{
+		width: 60%;
+		font-size: 35px;
+	}
+
+	.skills-description{
+		width: 70%;
+	}
+
+	.skills-list_zag{
+		font-size: 20px;
+		margin-top: 30px;
+	}
+
+	/*--//--*/
+
+	/*portfolio*/
+
+	.portfolio-zag{
+		width: 70%;
+	}
+
+	.portfolio-description{
+		width: 80%;
+		margin-top: 20px;
+	}
+
+	.portfolio-menu{
+		width: 70%;
+		margin-top: 40px;
+	}
+
+	
+
+	.portfolio-projects_1 li{
+		margin-top: 40px;
+
+	}
+
+	.portfolio-projects_1 img{
+		width: 100%;
+	}
+
+	.portfolio-link{
+		max-width: 295px;
+		width: 50%;
+		margin-top: 30px;
+	}
+
+	/*--//--*/
+
+	/*about-us*/
+
+	.about-us-zag{
+		width: 90%;
+		font-size: 35px;
+	}
+
+	.about-us-list ul{
+		display: block;
+	}
+
+	.about-us-list li{
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.about-us-list_img{
+		margin-right: 30px;
+	}
+
+	.about-us-list_text_italic{
+		height: auto;
+
+	}
+
+	.about-us-list_text_name{
+		margin-top: 20px;
+	}
+
+	/*--//--*/
+
+	/*connection*/
+
+	/*--//--*/
+
+	/*futer*/
+
+	.futer-menu a{
+		font-size: 20px;
+	}
+
+	/*--//--*/
+			
+} 
+
+
+
+
+
+ 
+
+

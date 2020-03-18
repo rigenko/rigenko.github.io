@@ -1,0 +1,178 @@
+
+ 
+
+@media (max-width : 479px) {
+
+	.bg-header{
+		padding: 25px 0 30px 0;
+	}
+
+	.header-menu li{
+		padding: 8px 12px 8px 10px;
+	}
+
+	.header-menu a{
+		font-size: 12px;
+	}
+
+	.header-zag{
+		font-size: 22px;
+		margin-top: 40px;
+		
+	}
+
+	.header-butom{
+		padding: 25px 0 25px 0;
+	}
+
+
+	/*--//--*/
+
+	/*services*/
+
+	.bg-services{
+		padding: 25px 0 20px 0;
+	}
+
+	.services-zag{
+		width: 90%;
+		font-size: 30px;
+
+	}
+
+	.services-description{
+		max-width: 610px;
+		width: 90%;
+		margin: 0 auto;
+		color: #fff;
+		text-align: center;
+		font-size: 18px;
+		margin-top: 24px;
+	}
+
+	.services-list{
+		margin-top: 25px;
+	}
+
+	.services-list li{
+		width: 90%;
+	}
+
+	.services-list_zag{
+		margin-top: 20px;
+		font-size: 24px;
+	}
+
+	.services-list_text{
+		margin-top: 15px;
+		font-size: 20px;
+		color:#fff;
+		line-height: 24px;
+	}
+
+	/*--//--*/
+
+	/*team*/
+
+	/*--//--*/
+
+	/*skills*/
+	
+	.skills-zag{
+		width: 90%;
+		font-size: 30px;
+		color:#3c4761;
+	}
+
+	.skills-description{
+		width: 90%;
+	}
+
+	/*--//--*/
+
+	/*portfolio*/
+
+	.portfolio-projects_link{
+		width: 90%;
+	}
+
+	.portfolio-link{
+		width: 70%;
+		padding: 15px 5px 15px 5px;
+	}
+
+	/*--//--*/
+
+	/*about-us*/
+
+
+
+	.about-us-list_img_text{
+		display: block;
+	}
+
+	.about-us-list_img{
+		max-width: 200px;
+		height: 200px;
+		margin: 0 auto;
+	}
+
+	.about-us-list_text_italic{
+		font-size: 21px;
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.about-us-list_text_name{
+		margin-top: 35px;
+		text-align: center;
+	}
+
+	/*--//--*/
+
+	.connection-zag{
+		width: 95%;
+		margin: 0 auto;
+		font-size: 30px;
+	}
+
+	.connection-description{
+		width: 95%;
+	}
+
+	/*--//--*/
+
+	/*futer*/
+
+	.bg-futer{
+		padding: 47px 10px 47px 10px;
+	}
+
+	.futer-menu{
+		text-align: center;
+	}
+
+	.futer-menu ul{
+		display: block;
+	}
+
+	.futer-menu li{
+		background: #000;
+		border-radius: 30px;
+		padding: 10px;
+		margin-bottom: 20px;
+	}
+
+	.futer-menu a{
+		font-size: 24px;
+		color:#fff;
+	}
+
+	.futer-menu a:hover{
+		color:#30bae7;
+	}
+
+	/*--//--*/
+}
+
+	
