@@ -1,0 +1,52 @@
+
+ @font-face {
+    font-family: 'Myriad Pro';
+    src: url(../Шрифти/'MyriadPro-Cond.eot');
+    src: url(../Шрифти/'MyriadPro-Cond.eot?#iefix') format('embedded-opentype'),
+        url(../Шрифти/'MyriadPro-Cond.woff2') format('woff2'),
+        url(../Шрифти/'MyriadPro-Cond.woff') format('woff'),
+        url(../Шрифти/'MyriadPro-Cond.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url(../Шрифти/'ArialNarrow.eot');
+    src: url(../Шрифти/'ArialNarrow.eot?#iefix') format('embedded-opentype'),
+        url(../Шрифти/'ArialNarrow.woff2') format('woff2'),
+        url(../Шрифти/'ArialNarrow.woff') format('woff'),
+        url(../Шрифти/'ArialNarrow.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PT Sans Narrow';
+    src: url(../Шрифти/'PTSans-Narrow.eot');
+    src: url(../Шрифти/'PTSans-Narrow.eot?#iefix') format('embedded-opentype'),
+        url(../Шрифти/'PTSans-Narrow.woff2') format('woff2'),
+        url(../Шрифти/'PTSans-Narrow.woff') format('woff'),
+        url(../Шрифти/'PTSans-Narrow.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PT Sans Narrow';
+    src: url(../Шрифти/'PTSans-NarrowBold.eot');
+    src: url(../Шрифти/'PTSans-NarrowBold.eot?#iefix') format('embedded-opentype'),
+        url(../Шрифти/'PTSans-NarrowBold.woff2') format('woff2'),
+        url(../Шрифти/'PTSans-NarrowBold.woff') format('woff'),
+        url(../Шрифти/'PTSans-NarrowBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Arial';
+    src: url(../Шрифти/'Arial-ItalicMT.eot');
+    src: url(../Шрифти/'Arial-ItalicMT.eot?#iefix') format('embedded-opentype'),
+        url(../Шрифти/'Arial-ItalicMT.woff2') format('woff2'),
+        url(../Шрифти/'Arial-ItalicMT.woff') format('woff'),
+        url(../Шрифти/'Arial-ItalicMT.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+

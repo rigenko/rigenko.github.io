@@ -1,0 +1,69 @@
+
+ 
+
+@media (max-width : 479px) {
+
+	/*bloc-header*/
+	.bloc-header-title-poisk{
+		display: block;
+	}
+
+	.bloc-header-poisk{
+		
+		width: 77%;
+		margin-left: auto;
+		margin-right: 0;
+	}
+
+	.bloc-header-poisk_img{
+		right: 20px;
+	}
+	/*--//--*/
+
+	/*bloc-Support-Service*/
+
+	/*--//--*/
+
+	/*professional-networking*/
+
+	.professional-networking-title_zag_text{
+		width: 90%;
+	}
+
+	.professional-networking-title{
+		display: block;
+	}
+
+	/*--//--*/
+
+	/*blok-info*/
+
+	.blok-info_ul li{
+		width: 95%;
+	}
+
+	.blok-info_zag{
+		font-size: 25px;
+		color: #313035;
+	}
+
+	/*--//--*/
+
+	/*bloc-futer*/
+	
+
+	.bloc-futer_menu_li{
+		margin-left: 25px;
+		margin-right: auto;
+		display: block;
+	}
+
+	.bloc-futer-social{
+		max-width: 500px;
+		display: block;
+	}
+
+	/*--//--*/
+}
+
+	
