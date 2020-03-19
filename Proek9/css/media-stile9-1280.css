@@ -1,0 +1,76 @@
+
+ 
+
+@media (max-width : 1280px) {
+
+	.section{
+		max-width: 1280px;
+	}
+
+	/*blok-header*/
+	.blok-header{
+		padding: 50px 0 70px 0;
+	}
+
+	/*--//--*/
+
+	/*blok-header-description-video*/
+
+	
+	.blok-header-description_zag{
+		font-size: 30px;
+		line-height: 50px;
+	}
+
+	.blok-header-description_text{
+		font-size: 15px;
+		line-height: 30px;
+	}
+
+	.botom1{
+		padding: 15px 0;
+	}
+
+	.botom1 a{
+		font-size: 12px;
+	}
+
+	.botom2{
+		padding: 15px 0;
+	}
+
+	.botom2 a{
+		font-size: 12px;
+	}
+
+	/*--//--*/
+
+	/*Management-tools*/
+
+	/*--//--*/
+
+	/*Project-selection*/
+
+	/*--//--*/
+
+	/*blok-services*/
+
+	/*--//--*/
+
+	/*blok-slaider*/
+
+	/*--//--*/
+
+	/*blok-Our-Team*/
+
+	/*--//--*/
+
+	/*blok-contakt*/
+
+	/*--//--*/
+
+	/*blok-footer*/
+
+	/*--//--*/
+} 
+

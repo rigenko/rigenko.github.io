@@ -1,0 +1,258 @@
+
+ 
+
+@media (max-width : 479px) {
+
+	/*blok-header*/
+
+	.blok-header{
+		padding: 10px 0 15px 0;
+	}
+
+	/*--//--*/
+
+	/*blok-header-description-video*/
+
+	.blok-header-description-video{
+		margin-top: 20px;
+	}
+
+	.blok-header-description_zag{
+		width: 80%;
+		font-size: 20px;
+		line-height: 25px;
+		color:#fff;
+		text-transform: uppercase;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.blok-header-description_text{
+		line-height: 22px;
+	}
+
+	.blok-header-description_botom{
+		width: 90%;
+		margin: 0 auto;
+	}
+
+	/*--//--*/
+
+	/*Management-tools*/
+
+	.Management-tools_description{
+		padding-top: 20px;
+	}
+
+	.Management-tools_instruments ul{
+		margin-top: 20px;
+	}
+
+	.Management-tools_description_zag{
+		font-size: 25px;
+	}
+
+	.Management-tools_description_podzag{
+		font-size: 12px;
+	}
+
+	.Management-tools_description_text{
+		font-size: 10px;
+		line-height: 20px;
+	}
+
+	.Management-tools_instruments ul{
+		display: block;
+	}
+
+	.Management-tools_instruments li{
+		margin-top: 10px;
+	}
+
+	/*--//--*/
+
+	/*Project-selection*/
+
+	.Project-selection{
+		display: block;
+	}
+
+	.Project-blok{
+		width: 100%;
+	}
+
+	.Project-selection_blok{
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		-ms-align-items: center;
+		align-items: center;
+		width: 70%;
+		margin: 0 auto;
+	}
+
+	.Project-selection_blok_text{
+		font-size: 18px;
+		color:#fff;
+		margin-left: 14px;
+		text-align: left;
+	}
+
+	.Project-selection_busines,
+	.Project-selection_downloads,
+	.Project-selection_installs,
+	.Project-selection_Users{
+		padding: 20px 0 20px 0;
+	}
+
+	/*--//--*/
+
+	/*blok-services*/
+
+	.drop-down-list{
+		width: 90%;
+	}
+
+	.drop-down-list_blok{
+		padding: 15px;
+	}
+
+	/*--//--*/
+
+	/*blok-slaider*/
+
+	.slaider_information_zag{
+		font-size: 25px;
+	}
+
+	.slaider_information_botom{
+		width: 60%;
+	}
+
+	.blok_slaider_post{
+		display: block;
+	}
+
+	.blok_slaider_img img{
+		margin: 0 auto;
+	}
+
+	.blok_slaider_content_zag{
+		font-size: 15px;
+		
+	}
+
+	.blok_slaider_content_text{
+		font-size: 12px;
+		
+	}
+
+	.blok_slaider .slick-prev,
+	.blok_slaider .slick-next{
+		margin: 0 auto;
+	}
+
+	/*--//--*/
+
+	/*blok-Our-Team*/
+
+	.bg-blok-Our-Team{
+		padding: 15px;
+	}
+
+	.blok-Our-Team_zag{
+		width: 100%;
+	}
+
+	.Our-Team_zag{
+		font-size: 25px;
+	}
+
+	.Our-Team_description{
+		font-size: 12px;
+		margin-top: 12px;
+		line-height: 20px;
+	}
+
+	.Our-Team_name{
+		font-size: 18px;
+		margin-top: 20px;
+	}
+
+	.Our-Team_name_description{
+		font-size: 12px;
+		margin-top: 10px;
+		line-height: 18px;
+	}
+
+	.blok-social-icon{
+		width: 90%;
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+
+	.blok-social-icon a{
+		margin-right: 15px;
+	}
+
+	/*--//--*/
+
+	/*blok-contakt*/
+
+	.contakt_zag{
+		font-size: 25px;
+	}
+
+	.contakt_description{
+		font-size: 12px;
+		margin-top: 15px;
+		line-height: 20px;
+	}
+
+	.yaceyka_kolonka1{
+		padding: 10px 0 10px 10px;
+	}
+
+	.yaceyka_kolonka2{
+		padding: 10px 0 80px 10px;
+	}
+
+	.forms_button_text{
+		font-size: 10px;
+	}
+
+	.forms_button{
+		width: 35%;
+		padding: 8px 0 8px 0;
+	}
+	
+	.forms_button a{
+		font-size: 10px;
+	}
+
+	/*--//--*/
+
+	/*blok-footer*/
+	.blok-footer_menu a{
+		font-size: 11px;
+	}
+
+	.blok-footer_menu li{
+		margin-right: 10px;
+	}
+
+	.marker_li{
+		padding-left: 8px;
+	}
+
+	.blok-footer_menu-2 a{
+		font-size: 12px;
+	}
+
+	/*--//--*/
+
+}
+
+	

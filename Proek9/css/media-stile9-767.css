@@ -1,0 +1,221 @@
+
+
+@media (max-width : 767px) {
+
+	/*blok-header*/
+
+	.blok-header_logo_text{
+		font-size: 11px;
+	}
+
+	.blok-header_menu{
+		max-width: 450px;
+	}
+
+	.blok-header_menu li{
+		margin-right: 15px;
+	}
+
+	.blok-header_botom{
+		padding: 5px 10px;
+	}
+
+	/*--//--*/
+	/*blok-header-description-video*/
+	
+	.blok-header-description_zag{
+		font-size: 22px;
+		line-height: 28px;
+		margin-bottom: 15px;
+	}
+
+	.blok-header-description_text{
+		font-size: 10px;
+		line-height: 20px;
+	}
+	
+	.blok-header-description-video{
+		margin-top: 35px;
+	}
+	
+	.botom1, 
+	.botom2{
+		padding: 7px 0;
+	}
+
+	.botom1 a, 
+	.botom2 a{
+		font-size: 10px;
+	}
+
+	/*Management-tools*/
+
+	.Management-tools_description{
+		padding-top: 40px;
+	}
+
+	.Management-tools_instruments ul{
+		margin-top: 40px;
+	}
+
+	.Management-tools_instruments h4{
+		margin-top: 25px;
+		font-size: 18px;
+	}
+
+	.Management-tools_instruments p{
+		margin-top: 10px;
+		font-size: 12px;
+	}
+
+	.Management-tools_botom{
+		margin-top: 30px;
+	}
+
+	/*--//--*/
+
+	/*Project-selection*/
+
+	.Project-selection_blok_text{
+		font-size: 15px;
+		margin-top: 5px;
+	}
+	/*--//--*/
+
+	/*blok-services*/
+
+	.drop-down-list{
+		width: 80%;
+	}
+
+	/*--//--*/
+
+	/*blok-slaider*/
+
+	.slaider_information_zag{
+		font-size: 40px;
+	}
+
+	.slaider_information_text{
+		font-size: 12px;
+	}
+
+	.slaider_information_botom{
+		width: 32%;
+		margin-top: 30px;
+		padding: 18px 0 18px 0;
+	}
+
+	.blok_slaider{
+		width: 95%;
+	}
+
+	.slaider_information_botom a{
+		font-size: 12px;
+	}
+
+	.blok_slaider_content{
+		padding: 15px;
+		
+	}
+
+	.blok_slaider_content_text{
+		font-size: 12px;
+		margin-top: 15px;
+		line-height: 22px;
+	}
+
+	/*--//--*/
+
+	/*blok-Our-Team*/
+
+	
+
+	.Our-Team_slaider{
+		width: 90%;
+		margin-top: 30px;
+	}
+
+	/*--//--*/
+
+	/*blok-contakt*/
+
+	.contakt_zag{
+		font-size: 35px;
+	}
+
+	.contakt_description{
+		font-size: 12px;
+		margin-top: 20px;
+		line-height: 22px;
+	}
+
+	.yaceyka_kolonka1{
+		padding: 15px 0 15px 15px;
+	}
+
+	.yaceyka_kolonka2{
+		padding: 15px 0 130px 15px;
+	}
+
+	.forms_button_text{
+		font-size: 12px;
+	}
+
+	.forms_button{
+		padding: 15px 0 15px 0;
+	}
+
+	/*--//--*/
+
+	/*blok-footer*/
+
+	.blok-footer{
+		display: block;
+	}
+
+	.blok-footer_logo_menu{
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.blok-footer_logo{
+		width: 40%;
+	}
+
+	.blok-footer_menu{
+		margin-top: 0;
+		margin-left: auto;
+		margin-right: 0;
+		
+	}
+
+	.blok-footer_menu a{
+		font-size: 12px;
+		padding-right: 10px;
+	}
+
+	.blok-footer_menu-2_social{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+
+	/*--//--*/
+
+
+			
+} 
+
+
+
+
+
+ 
+
+

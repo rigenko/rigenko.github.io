@@ -1,0 +1,219 @@
+
+ 
+@media (max-width : 1220px) {
+
+	/*blok-header*/
+
+	.blok-header_logo_text{
+		font-size: 12px;
+	}
+
+	.blok-header_menu{
+		margin-left: 70px;
+		max-width: 430px;
+	}
+
+	.blok-header_menu li{
+		margin-right: 30px;
+	}
+
+	.blok-header_menu a{
+		font-size: 12px;
+	}
+
+	.blok-header_botom{
+		padding: 7px 20px 10px 18px;
+	}
+
+	.blok-header_botom a{
+		font-size: 10px;
+	}
+
+	/*--//--*/
+
+	/*blok-header-description-video*/
+	
+	.blok-header-description_zag{
+		font-size: 25px;
+		line-height: 30px;
+		margin-bottom: 20px;
+	}
+
+	.blok-header-description_text{
+		font-size: 12px;
+		line-height: 20px;
+	}
+	
+	.blok-header-description-video{
+		margin-top: 65px;
+	}
+
+	.botom1, 
+	.botom2{
+		width: 40%;
+	}
+
+	/*--//--*/
+
+	/*Management-tools*/
+
+	.Management-tools_description{
+		padding-top: 50px;
+	}
+
+	.Management-tools_instruments ul{
+		margin-top: 50px;
+	}
+
+	.Management-tools_instruments h4{
+		margin-top: 35px;
+	}
+
+	.Management-tools_instruments p{
+		margin-top: 15px;
+	}
+
+	.Management-tools_botom{
+		margin-top: 40px;
+	}
+
+	/*--//--*/
+
+	/*Project-selection*/
+
+	.Project-selection_blok{
+		display: block;
+		width: 90%;
+		text-align: center;
+	}
+
+	.Project-selection_blok_text{
+		margin-left: 0;
+	}
+
+	.Project-selection_busines,
+	.Project-selection_downloads,
+	.Project-selection_installs,
+	.Project-selection_Users{
+		padding: 20px 0 20px 0;
+	}
+
+	
+	/*--//--*/
+
+	/*blok-services*/
+
+	.drop-down-list{
+		width: 70%;
+	}
+
+	.drop-down-list_blok_content_img img{
+		margin-bottom:  20px;
+	}
+
+	/*--//--*/
+
+	/*blok-slaider*/
+
+	.slaider_information{
+		width: 80%;
+		padding-top: 35px;
+	}
+
+	.blok-slaider-information{
+		display: block;
+	}
+
+	.slaider_information_botom{
+		margin: 40px 0 60px 0;
+	}
+
+	.blok_slaider{
+		width: 90%;
+		margin: 0 auto;
+	}
+
+	.blok_slaider_post{
+		margin-bottom: 40px;
+	}
+
+	.blok_slaider_img{
+		margin-right: 30px;
+	}
+
+	/*--//--*/
+
+	/*blok-Our-Team*/
+
+	.bg-blok-Our-Team{
+		padding: 40px;
+	}
+
+	.Our-Team_description{
+		margin-top: 20px;
+	}
+
+	.Our-Team_slaider{
+		width: 70%;
+		margin-top: 40px;
+	}
+
+	/*--//--*/
+
+	/*blok-contakt*/
+
+	.bg-blok-contakt{
+		background: #fafafa;
+		padding: 30px 0 50px 0;
+	}
+
+	.blok-contakt-forms{
+		width: 90%;
+		margin-top: 35px;
+	}
+
+	
+	/*--//--*/
+
+	/*blok-footer*/
+
+	.bg-blok-footer{
+		background: #061e37;
+	}
+
+	.blok-footer{
+		padding: 50px 0 20px 0;
+	}
+
+	.blok-footer_logo_menu{
+		width: 40%;
+		
+	}
+
+	.blok-footer_menu{
+		margin-top: 40px;
+	}
+
+	.blok-footer_menu li{
+		margin-right: 10px;
+	}
+
+	.blok-footer_menu a{
+		font-size: 12px;
+		color:#fff;
+		text-decoration: none;
+		
+	}
+
+	.blok-footer_menu-2_social{
+		width: 50%;
+		margin-left: auto;
+		margin-right: 0;
+		
+	}
+
+
+	/*--//--*/
+
+} 
+

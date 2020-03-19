@@ -1,0 +1,232 @@
+
+ 
+
+@media (max-width : 600px) {
+
+	/*blok-header*/
+
+	.blok-header{
+		padding: 15px 0 25px 0;
+	}
+
+	.blok-header_logo_menu{
+		display: block;
+	}
+
+	.blok-header_logo{
+		width: 30%;
+		display: block;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.blok-header_logo a{
+		margin-right: 0;
+	}
+
+	.blok-header_logo_text{
+		margin-top: 10px;
+		line-height: 15px;
+	}
+
+	.blok-header_menu{
+		margin-top: 15px;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.blok-header_menu ul{
+		margin: 10px 0 10px 0;
+	}
+
+	.blok-header_menu li{
+		margin: 0 auto;
+	}
+
+	.blok-header_menu a{
+		font-size: 12px;
+	}
+
+	.blok-header_botom{
+		max-width: 50px;
+		margin: 0 auto;
+		padding: 5px 20px 7px 20px;
+		text-align: center;
+	}
+
+	/*--//--*/
+
+	/*blok-header-description-video*/
+
+	.blok-header-description-video{
+		margin-top: 25px;
+		display: block;
+	}
+
+	.blok-header-description{
+		width: 100%;
+		
+	}
+
+	.blok-header-description_zag{
+		width: 70%;
+		font-size: 25px;
+		line-height: 28px;
+		color:#fff;
+		text-transform: uppercase;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.blok-header-description_text{
+		font-size: 15px;
+		line-height: 25px;
+		text-align: center;
+		color:#fff;
+		margin:15px 0 20px 0;
+	}
+
+	.blok-header-description_botom{
+		width: 70%;
+		margin: 0 auto;
+	}
+
+	
+
+	.blok-header-video{
+		width: 90%;
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+
+	/*--//--*/
+
+	/*Management-tools*/
+
+	.Management-tools_description{
+		padding-top: 30px;
+	}
+
+	.Management-tools_instruments ul{
+		margin-top: 30px;
+	}
+
+	.Management-tools_instruments h4{
+		margin-top: 20px;
+		font-size: 15px;
+	}
+
+	.Management-tools_instruments p{
+		margin-top: 10px;
+		font-size: 10px;
+	}
+
+	.Management-tools_botom{
+		margin-top: 25px;
+		max-width: 120px;
+		padding: 15px 0 15px 25px;
+	}
+
+	/*--//--*/
+
+	/*Project-selection*/
+
+	/*--//--*/
+
+	/*blok-services*/
+
+	.drop-down-list{
+		width: 85%;
+	}
+
+	.drop-down-list_blok_content_img img{
+		width: 100%;
+	}
+
+	/*--//--*/
+
+	/*blok-slaider*/
+
+	.slaider_information_botom{
+		width: 40%;
+	}
+
+	/*--//--*/
+
+	/*blok-Our-Team*/
+
+	
+
+	.Our-Team_slaider{
+		width: 95%;
+		margin-top: 25px;
+	}
+
+	/*--//--*/
+
+	/*blok-contakt*/
+
+	.yaceyka_kolonka2{
+		padding: 15px 0 100px 15px;
+	}
+
+	.forms_button{
+		width: 32%;
+	}
+
+	.forms_button a{
+		font-size: 12px;
+	}
+
+	/*--//--*/
+
+	/*blok-footer*/
+
+	
+
+	.blok-footer{
+		display: block;
+	}
+
+	.blok-footer_logo_menu{
+		display: block;
+	}
+
+	.blok-footer_menu{
+		margin-top: 30px;
+	}
+
+	.blok-footer_menu li{
+		margin-right: 20px;
+	}
+
+	.blok-footer_menu a{
+		font-size: 15px;
+		padding-right: 30px;
+	}
+
+	.marker_li{
+		padding-left: 20px;
+	}
+
+	.blok-footer_menu-2_social{
+		width: 100%;
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+	.blok-footer_menu-2_social li{
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+	.blok-footer_social{
+		margin: 0 auto;
+		margin-top: 40px;
+	}
+
+	/*--//--*/
+
+}
+
+	
