@@ -1,0 +1,146 @@
+
+ 
+
+@media (max-width : 479px) {
+
+	/*blok-header*/
+
+	.blok-header_numer{
+		width: 60%;
+		padding-top: 20px;
+		margin: 0 auto;
+		margin-bottom: 10px;
+	}
+
+	.blok-header_menu{
+		padding-bottom: 30px;
+	}
+
+	.blok-header_menu ul{
+		display: block;
+		width: 40%;
+	}
+
+	.blok-header_numer .kod{
+		font-size: 15px;
+	}
+
+	.blok-header_numer .numer{
+		font-size: 20px;
+	}
+
+	/*--//--*/
+
+	/*blok-proekty*/
+
+	.blok-proekty li{
+		margin-bottom: 10px;
+	}
+
+	.blok-proekty_img img{
+		width: 100px;
+		margin-right: 20px;
+	}
+
+	/*--//--*/
+
+	/*blok-news-kompani*/
+
+	/*--//--*/
+
+	/*blok-onlain-uslugj*/
+
+	
+	.blok-onlain h3{
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.blok-onlain p{
+		font-size: 12px;
+	}
+
+	.onlain-bottom a{
+		font-size: 10px;
+		padding-left: 15px;
+		
+	}
+
+	.onlain-bottom span{
+		font-size: 18px;
+	}
+
+	.blok-uslugj_zag{
+		font-size: 18px;
+	}
+
+	.blok-uslugj_list ul{
+		display: block;
+		margin-left: 10px;
+		
+	}
+
+	.blok-uslugj_list li{
+		width: 90%;
+		margin: 0 auto;
+	}
+
+	.blok-uslugj_list img{
+		margin: 2px 5px 2px 0;
+	}
+
+	.blok-uslugj_list a{
+		display: block;
+		font-size: 13px;
+		color: #11adc4;
+		line-height: 22px;
+	}
+
+	/*--//--*/
+
+	/*foorer-menu*/
+
+	.foorer-menu li{
+		display: none;
+	}
+
+	/*--//--*/
+
+	/*blok-footer*/
+
+
+.blok-footer ul{
+	display: block;
+}
+
+.blok-footer li{
+	width: 90%;
+	margin: 0 auto;
+}
+
+.blok-footer_adres p{
+	margin-bottom: 10px;
+}
+
+.blok-footer_telephone p.time{
+	margin-bottom: 12px;
+}
+
+.blok-footer_telephone p.email{
+	margin-bottom: 10px;
+}
+
+.blok-footer_contakt a{
+	font-size: 12px;
+	color: #959898;
+}
+
+.blok-footer_contakt p.author{
+	margin-top: 15px;
+}
+
+/*--//--*/
+
+}
+
+	
