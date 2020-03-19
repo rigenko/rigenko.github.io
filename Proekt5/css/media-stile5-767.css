@@ -1,0 +1,117 @@
+
+
+@media (max-width : 767px) {
+
+	/*header*/
+
+	.header-phone-number{
+		display: block;
+	}
+
+	.header_phone{
+		margin: 5px;
+	}
+
+	.header-registration{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	/*--//--*/
+
+	/*logo-menu*/
+
+	.logo-menu_nav{
+		width: 90%;
+	}
+
+	/*--//--*/
+
+	/*menu-sait*/
+
+	/*--//--*/
+
+	/*top-slaid*/
+
+	/*--//--*/
+
+	/*blok-services*/
+
+	.blok-services_img_text{
+		display: block;
+		text-align: center;
+	}
+
+	.services_img{
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+
+	/*blok-news*/
+
+	.blok-news ul{
+		display: block;
+	}
+
+	.blok-news li{
+		width: 80%;
+		margin-bottom: 10px;
+	}
+
+	.blok-news_zag{
+		font-size: 22px;
+	}
+
+	.blok-news_text p{
+		font-size: 15px;
+		margin-top: 20px;
+	}
+
+	.blok-news_zag_data_italic{
+		font-size: 15px;
+		margin-top: 22px;
+	}
+
+	.blok-news_zag_data_text{
+		font-size: 15px;
+	}
+
+	.blok-news_form_poisk input{
+		padding: 10px 70px 10px 10px;
+	} 
+
+	.blok-news_form_poisk button{
+		padding: 7px;
+		border: none;
+		margin-left:  -40px;
+		background: #fff;
+	}
+
+	.blok-news_form_post{
+		width: 50%;
+	}
+
+	.blok-news_form_post_text{
+		font-size: 15px;
+		padding-right: 0;
+	}
+
+	/*--//--*/
+
+	/*blok-futer*/
+
+	.bg-blok-futer{
+		padding: 30px 0 30px 20px;
+	}
+
+	/*--//--*/
+			
+} 
+
+
+
+
+
+ 
+
+

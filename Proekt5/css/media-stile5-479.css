@@ -1,0 +1,121 @@
+
+ 
+
+@media (max-width : 479px) {
+
+	/*header*/
+
+	.header{
+		display: block;
+	}
+
+	.header-phone-number{
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		margin: 0 auto;
+	}
+
+	.header-registration{
+		margin: 15px 20px 20px 50px;
+	}
+
+	.header-mov-mani{
+	 	margin: 0 auto;
+	}
+
+	/*logo-menu*/
+
+	.logo-menu{
+		display: block;
+	}
+
+	.logo-logo_description_blok{
+		display: block;
+	}
+
+	.logo-logo_description{
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+
+	.logo_logo{
+		font-size: 30px;
+		text-align: center;
+	}
+
+	.logo-form-poisk{
+		width: 70%;
+		margin-left: 60px;
+	}
+
+	.logo-form-poisk input{
+		padding: 10px;
+	} 
+
+	.logo-menu_nav_list a{
+	font-size: 11px;
+	}
+	
+	/*--//--*/
+
+	/*menu-sait*/
+
+	.menu-sait_blok ul{
+		display: block;
+		text-align: center;
+	}
+
+	/*--//--*/
+
+	/*top-slaid*/
+
+	.top-slaid_description{
+		width: 70%;
+		margin: 0 auto;
+	}
+
+	.top-slaid_title h3{
+		font-size: 26px;
+		text-align: center;
+	}
+
+	.top-slaid_1,
+	.top-slaid_2{
+		padding: 70px 0 150px 0;
+	}
+
+	/*--//--*/
+
+	/*blok-services*/
+
+	.blok-services ul{
+		display: block;
+	}
+
+	.blok-services li{
+		width: 90%;
+		margin-bottom: 10px;
+		
+	}
+
+	/*--//--*/
+
+	/*blok-news*/
+
+	.blok-news li{
+		padding: 20px 10px 20px 10px;
+	}
+
+	.blok-news_form_post{
+		width: 90%;
+	}
+
+	/*blok-futer*/
+
+	/*--//--*/
+}
+
+	

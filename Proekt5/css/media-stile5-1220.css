@@ -1,0 +1,84 @@
+
+ 
+@media (max-width : 1220px) {
+
+	/*header*/
+
+	.header-phone-number{
+		margin-left: 20px;
+	}
+
+	/*--//--*/
+
+	/*logo-menu*/
+
+	.logo-menu{
+		display: block;
+	}
+
+	.logo-logo_description_blok{
+		margin-bottom: 30px;
+	}
+
+	.logo-logo_description{
+		max-width: 140px;
+		margin-left: 20px;
+	}
+
+	
+	.logo-menu_nav{
+		width: 67%;
+		margin: 0 auto;
+	}
+
+	.logo-menu_nav_list li{
+		padding-right: 25px;
+		padding-left: 25px;
+	}
+
+	.logo-form-poisk{
+		margin-right: 20px;
+		margin-left: auto;
+	}
+
+	/*--//--*/
+
+	/*menu-sait*/
+
+	/*--//--*/
+
+	/*top-slaid*/
+
+	/*--//--*/
+
+	/*blok-services*/
+
+	/*--//--*/
+
+	/*blok-news*/
+
+	.blok-news_form_poisk input{
+		padding: 10px 20px 10px 10px;
+	} 
+
+	.blok-news_form_poisk button{
+		margin-left:  -30px;
+	}
+
+	/*--//--*/
+
+	/*blok-futer*/
+
+	/*--//--*/
+
+	/*bg-blok-social*/
+	
+	.bg-blok-social{
+		padding: 25px;
+	}
+
+	
+	/*--//--*/
+
+} 
+

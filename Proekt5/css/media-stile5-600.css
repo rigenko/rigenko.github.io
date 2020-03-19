@@ -1,0 +1,72 @@
+
+ 
+
+@media (max-width : 600px) {
+
+	/*header*/
+
+	.header-phone-number-blok{
+		display: block;
+	}
+
+	.header-registration{
+		margin: 15px 20px 20px 15px;
+	}
+
+	/*--//--*/
+
+	/*logo-menu*/
+
+	.logo-menu_nav{
+		width: 95%;
+		display: block;
+	}
+
+	.logo-menu_button{
+		margin-top: 20px;
+	}
+
+	/*menu-sait*/
+
+	.menu-sait_blok li{
+		padding: 12px 15px 12px 12px;
+	}
+
+	/*--//--*/
+
+	/*top-slaid*/
+
+	/*--//--*/
+
+	/*blok-news*/
+
+	.blok-news_form_post{
+		width: 60%;
+	}
+
+	.blok-news_form_post_text{
+		font-size: 15px;
+		padding-right: 0;
+	}
+	
+	/*--//--*/
+
+	/*blok-futer*/
+
+	.blok-futer ul{
+		display: block;
+	}
+
+	.blok-futer li{
+		width: 90%;
+		margin-top: 20px;
+		margin-left: 20px;
+		margin-right: auto;
+	}
+
+	/*--//--*/
+
+	
+}
+
+	
