@@ -1,8 +1,6 @@
 <?php 
 if (!empty($_POST['name']) AND !empty($_POST['email']) AND !empty($_POST['phone']) AND !empty($_POST['kod'])){
 
-	
-
 	$theme = 'Новое сообщение';
 
 	$letter = 'Даные сообщения:\r\n';
@@ -11,12 +9,9 @@ if (!empty($_POST['name']) AND !empty($_POST['email']) AND !empty($_POST['phone'
 	$letter .= 'Телефон: '.$_POST['phone'].'\r\n';
 	$letter .= 'Код товара: '.$_POST['kod'].'\r\n';
 
-	if (mail('saka150577@gmail.com', $theme, $letter, $headers)){
-		header('Location:/sent.php');
-	} else {
-		header('Location:/eror.php');
+	if (mail('saka150577@gmail.com', $theme, $letter)){
 	
-	}
+	} 
 }
 ?>
 
