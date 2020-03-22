@@ -1,5 +1,5 @@
 <?php 
-if (!empty($_POST['name']) and !empty($_POST['email']) and !empty($_POST['phone']) and !empty($_POST['kod'])){
+if (!empty($_POST['name'])){
 
 	$theme = 'Новое сообщение';
 
