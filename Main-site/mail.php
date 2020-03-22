@@ -15,11 +15,7 @@ if (!empty($_POST['name']) AND !empty($_POST['email']) AND !empty($_POST['phone'
 	$letter .= 'Код товаа: '.$_POST['kod'].'\r\n';
 
 if (mail('saka150577@gmail.com', $theme, $letter, $headers)){
-	header('Location:/sent.php');
-} else {
-	header('Location:/eror.php');
-	
-}
+} 
 }
 ?>
 
