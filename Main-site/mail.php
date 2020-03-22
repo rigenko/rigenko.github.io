@@ -1,5 +1,5 @@
 <?php 
-// ----проверка на заполняемость полей
+
 if (!empty($_POST['name']) AND !empty($_POST['email']) AND !empty($_POST['phone']) AND !empty($_POST['kod'])){
 
 	$headers =	'From: Вестка сайтов\r\n'.
@@ -15,13 +15,13 @@ if (!empty($_POST['name']) AND !empty($_POST['email']) AND !empty($_POST['phone'
 	$letter .= 'Код товаа: '.$_POST['kod'].'\r\n';
 
 if (mail('saka150577@gmail.com', $theme, $letter, $headers)){
-	header('Location:/Main-site/sent.php');
-}
+	header('Location:/sent.php');
 } else {
-	header('Location:/Main-site/eror.php');
+	header('Location:/eror.php');
 	
 }
-// ...........................
+}
 ?>
+
 
 
