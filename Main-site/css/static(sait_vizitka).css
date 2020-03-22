@@ -1,0 +1,44 @@
+
+*{
+	box-sizing: border-box;
+	font-family: 'Myriad Pro';
+	color: #ddd1d1;
+}
+
+a{
+	text-decoration: none;
+}
+
+.section{
+	width: 100%;
+}
+
+.container{
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+
+}
+
+.bg-body{
+	background-image: url(../img/bg-bodi.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.yakor-menu a{
+	padding: 0 5px 0 5px;
+	border-right: 1px solid #fff;
+}
+
+.yakor-menu a:hover{
+	border-bottom: 1px solid #f4e53c;
+	font-weight: 700;
+}
+
+
+
+
+
+

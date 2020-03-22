@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url(../Шрифти/'MyriadPro-Cond.eot');
+    src: url(../Шрифти/'MyriadPro-Cond.eot?#iefix') format('embedded-opentype'),
+        url(../Шрифти/'MyriadPro-Cond.woff2') format('woff2'),
+        url(../Шрифти/'MyriadPro-Cond.woff') format('woff'),
+        url(../Шрифти/'MyriadPro-Cond.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+
+
+
