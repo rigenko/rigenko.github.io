@@ -1,19 +1,20 @@
-<?php 
-if (!empty($_POST['name'])){
-
-	$theme = 'Новое сообщение';
-
-	$letter = 'Даные сообщения:\r\n';
-	$letter .= 'Имя: '.$_POST['name'].'\r\n';
-	$letter .= 'Email: '.$_POST['email'].'\r\n';
-	$letter .= 'Телефон: '.$_POST['phone'].'\r\n';
-	$letter .= 'Код товара: '.$_POST['kod'].'\r\n';
-
-	if (mail('saka150577@gmail.com', $theme, $letter)){
-	
-	} 
-}
-
+<?php
+$name = $_POST['name'];
+$email = $_POST['email'];
+$fio = htmlspecialchars($fio);
+$email = htmlspecialchars($email);
+$fio = urldecode($fio);
+$email = urldecode($email);
+$fio = trim($fio);
+$email = trim($email);
+//echo $fio;
+//echo "<br>";
+//echo $email;
+if (mail("saka150577@gmail.com", "Заявка с сайта", "ФИО:".$fio.". E-mail: ".$email ,"From: saka150577@gmail.com \r\n"))
+ {     echo "сообщение успешно отправлено";
+} else {
+    echo "при отправке сообщения возникли ошибки";
+}?>
 
 
 
