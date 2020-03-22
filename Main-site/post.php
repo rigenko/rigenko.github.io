@@ -1,18 +1,23 @@
 <?php
+
 $name = $_POST['name'];
 $email = $_POST['email'];
+$phone = $_POST['phone'];
+$kod = $_POST['kod'];
+
 $name = htmlspecialchars($name);
 $email = htmlspecialchars($email);
-$name = urldecode($name);
-$email = urldecode($email);
+$phone = htmlspecialchars($phone);
+$kod = htmlspecialchars($kod);
+
 $name = trim($name);
 $email = trim($email);
+$phone = trim($phone);
+$kod = trim($kod);
 
-if (mail("saka150577@gmail.com", "Заявка с сайта", "ФИО:".$name.". E-mail: ".$email ,"From: saka150577@gmail.com \r\n"))
- {     echo "сообщение успешно отправлено";
-} else {
-    echo "при отправке сообщения возникли ошибки";
-}?>
+mail("saka150577@gmail.com", "Заявка с сайта", "ФИО:".$name.". E-mail: ".$email."Тел:".$phone.". "код:".$kod.", "From: example2@mail.ru \r\n");
+
+?>
 
 
 
