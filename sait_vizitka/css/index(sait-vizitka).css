@@ -5,23 +5,25 @@
 	box-sizing: border-box;
 }
 
-.section{
-	width: 100%;
-	margin: 0 auto;
+body{
 	background-image: url(../img/bg-body/bg-bodi.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
+}
+
+
+.section{
+	width: 100%;
+	margin: 0 auto;
 	padding: 100px 0 100px 0;
-	
 }
 
 .conteiner{
 	max-width: 1200px;
 	margin: 0 auto;
-
 }
 
 .yakor-menu{
@@ -69,8 +71,8 @@
 }
 
 .contakt_description{
-	max-width: 600px;
-	width: 50%;
+	max-width: 700px;
+	width: 100%;
 	margin-left: 40px;
 }
 
@@ -82,8 +84,14 @@
 
 .contakt p{
 	padding: 10px;
-	font-size: 25px;
+	font-size: 20px;
 	color: #fff;
+}
+
+.contakt_description span{
+	font-size: 22px;
+	font-weight: 700;
+	border-bottom: 1px solid #fff;
 }
 
 /*--//--*/
@@ -332,6 +340,37 @@
    	text-decoration: none;
    	text-transform: uppercase;
 
+}
+
+.saidbar-description-table{
+	display: block;
+	width: 70%;
+	margin-left: auto;
+	margin-right: 0;
+	padding: 20px;
+}
+
+.saidbar-description-table p{
+	margin-bottom: 20px;
+
+}
+
+.saidbar-description-table{
+	width: 70%;
+	margin-right: auto;
+	margin-left: 0;
+}
+
+.saidbar-description-table tr,
+.saidbar-description-table td{
+	border: 1px solid #fff;
+	padding: 5px 20px 5px 10px;
+	color: #fff;
+}
+
+.table-bold{
+	font-weight: 700;
+	font-size: 18px;
 }
 
 
