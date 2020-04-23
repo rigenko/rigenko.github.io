@@ -1,33 +1,111 @@
 
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url(../Шрифти/'MyriadPro-Cond.eot');
+    src: url(../Шрифти/'MyriadPro-Cond.eot?#iefix') format('embedded-opentype'),
+        url(../Шрифти/'MyriadPro-Cond.woff2') format('woff2'),
+        url(../Шрифти/'MyriadPro-Cond.woff') format('woff'),
+        url(../Шрифти/'MyriadPro-Cond.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
 *{
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	
 }
 
-body{
-	background-image: url(../img/bg-body/bg-bodi.jpg);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-position: center;
-	-webkit-background-size: cover;
-	background-size: cover;
+h1,
+p,
+a{
+	font-family: 'Myriad Pro';
 }
-
 
 .section{
 	width: 100%;
-	margin: 0 auto;
-	padding: 100px 0 100px 0;
 }
 
 .conteiner{
 	max-width: 1200px;
+	width: 100%;
 	margin: 0 auto;
 }
 
+/*description*/
+
+.bg-description{
+	background-image: url(../img/bg-body/bg-bodi-2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	text-align: center;
+}
+
+.description-top{
+	padding-top: 30px;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.description-name{
+	margin-top: 150px;
+	font-size: 70px;
+	color: #fff;
+}
+
+.description-text{
+	margin-top: 20px;
+	font-size: 18px;
+	color: #fff;
+}
+
+.description-botom{
+	max-width: 600px;
+	width: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	margin: 0 auto;
+	margin-top: 60px;
+}
+
+.description_link{
+	max-width: 200px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.description_link a{
+	width: 100%;
+	display: block;
+	padding: 15px;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 5px;
+	background-image: linear-gradient(to top, #f61b20, #f89193);
+	color: #fff;
+}
+
+.description_link a:hover{
+	border: 1px solid #fff;
+}
+
+.description_link a:active{
+	background-image: linear-gradient(to top, #f89193, #f61b20);
+}
+
+/*--//--*/
+
 .yakor-menu{
-	margin-bottom: 20px;
+	padding: 20px;
 }
 .yakor-menu a{
 	text-decoration: none;
@@ -42,138 +120,14 @@ body{
 	font-weight: 700;
 }
 
-/*contakt*/
-
-.contakt_foto{
-	width: 20%;
-}
-
-.contakt_foto img{
-	width: 100%;
-	box-shadow: 8px 13px 7px rgba(0, 0, 0, 0.6);
-}
-
- 
-
- p{
-	font-size: 15px;
-   	color: #fff;
-   	margin-top: 10px;
-}
-
-.contakt{
-	margin: 40px;
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: -o-flex;
-	display: flex;
-}
-
-.contakt_description{
-	max-width: 700px;
-	width: 100%;
-	margin-left: 40px;
-}
-
-.contakt_description h1{
-	font-size: 40px;
-   	color: #fff;
-   	margin-top: 10px;
-}
-
-.contakt p{
-	padding: 10px;
-	font-size: 20px;
-	color: #fff;
-}
-
-.contakt_description span{
-	font-size: 22px;
-	font-weight: 700;
-	border-bottom: 1px solid #fff;
-}
-
-/*--//--*/
-
-/*главная страница*/
-.description{
-	width: 100%;
-	background-image: url(../img/bg-body/bg-bloc_navigation.png);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-position: center;
-	-webkit-background-size: cover;
-	background-size: cover;
-	border-radius: 5px;
-	padding: 20px;
-	margin: 0 auto;
-}
-
-.description_zag{
-	font-size: 45px;
-	font-weight: 600;
-	color: #fff;
-	margin-bottom: 20px;
-	text-shadow: 8px 13px 7px rgba(0, 0, 0, 0.6);
-	text-align: center;
-}
-
-.description_text{
-	width: 50%;
-	margin: 0 auto;
-	margin-top: 25px;
-}
-
-.description_text li{
-	font-size: 25px;
-	font-style: italic;
-   	color: #fff;
-   	text-shadow: 8px 13px 7px rgba(0, 0, 0, 0.6);
-   	margin-bottom: 20px;
-   	list-style-type: disc;
-
-}
-
-.description-botom{
-	width: 50%;
-	margin: 0 auto;
-	padding: 25px 0 25px 0;
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: -o-flex;
-	display: flex;
-
-}
-
-.description_link{
-	max-width: 250px;
-	width: 100%;
-	padding: 10px;
-	border-radius: 3px;
-	background: linear-gradient(to top, #696969, #cbe9e9);
-	text-transform: uppercase;
-	box-shadow: 8px 13px 7px rgba(0, 0, 0, 0.6);
-	text-align: center;
-	margin: 0 auto;
-}
-
-.description_link:hover,
-.bloc-podrobno_description_botom:hover{
-	background: linear-gradient(to top, #cbe9e9, #696969);
-	border: 1px solid #000;
-}
-
-.description_link a{
-	font-size: 17px;
-   	color: #f3f556;
-   	text-decoration: none;
-}
-
-/*--//--*/
-
 /*portfolio*/
+
+.bg-portfolio{
+	background-image: url(../img/portfolio/bg-porfolio.jpg);
+	background-size: cover;
+	background-position: center;
+	background-size: cover;
+}
 .portfolio_zag{
 	text-align: center;
 	margin-top: 20px;
@@ -240,6 +194,7 @@ body{
 	padding: 10px 0 10px 0;
 	background-image: url(../img/portfolio/bg-podrobney.png);
 	background-position: center;
+	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	text-align: center;
@@ -261,6 +216,10 @@ body{
 
 /*bloc-podrobno*/
 
+.bg-podrobno{
+	background-image: linear-gradient(to top, #fff, #3d3d3e);
+}
+
 .bloc-podrobno{
 	padding-top: 20px;
 	display: -webkit-flex;
@@ -272,6 +231,7 @@ body{
 
 .bloc-podrobno_img{
 	width: 45%;
+	box-shadow: 8px 13px 7px rgba(0, 0, 0, 0.6);
 }
 
 .bloc-podrobno_img img{
@@ -282,6 +242,7 @@ body{
 	width: 90%;
 	margin: 0 auto;
 	margin-top: 20px;
+
 }
 
 .bloc-project_img img{
@@ -297,6 +258,7 @@ body{
 	margin-right: 0;
 	background-image: url(../img/bg-body/bg-fon.jpg);
 	border-radius: 5px;
+	box-shadow: 8px 13px 7px rgba(0, 0, 0, 0.6);
 }
 
 .bloc-podrobno_description_zag{
@@ -321,7 +283,8 @@ body{
 
 .bloc-podrobno_description_botom{
 	max-width: 200px;
-	padding: 10px 10px 10px 20px;
+	width: 100%;
+	padding: 10px 0 10px 0;
 	border-radius: 3px;
 	background-image: url(../img/bg-body/bg-portfolio.png);
 	background-position: center;
@@ -334,12 +297,67 @@ body{
 	text-align: center;
 }
 
+.bloc-podrobno_description_botom:hover{
+	border: 1px solid #fff;
+}
+
+.bloc-podrobno_description_botom:active{
+	box-shadow: 4px 7px 4px rgba(0, 0, 0, 0.6);
+}
+
 .bloc-podrobno_description_botom a{
+	display: block;
 	font-size: 17px;
    	color: #f3f556;
    	text-decoration: none;
-   	text-transform: uppercase;
+}
 
+/*contakt*/
+
+.bg-contakt{
+	background-image: linear-gradient(to top, #340232, #3d3d3e);
+}
+
+.contakt_foto{
+	width: 20%;
+}
+
+.contakt_foto img{
+	width: 100%;
+	box-shadow: 8px 13px 7px rgba(0, 0, 0, 0.6);
+}
+
+ .contakt{
+	padding: 40px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+
+.contakt_description{
+	max-width: 700px;
+	width: 100%;
+	margin-left: 40px;
+}
+
+.contakt_description h1{
+	font-size: 40px;
+   	color: #fff;
+   	margin-top: 10px;
+}
+
+.contakt p{
+	padding: 10px;
+	font-size: 20px;
+	color: #fff;
+}
+
+.contakt_description span{
+	font-size: 22px;
+	font-weight: 700;
+	border-bottom: 1px solid #fff;
 }
 
 .saidbar-description-table{
@@ -352,7 +370,6 @@ body{
 
 .saidbar-description-table p{
 	margin-bottom: 20px;
-
 }
 
 .saidbar-description-table{
@@ -372,6 +389,8 @@ body{
 	font-weight: 700;
 	font-size: 18px;
 }
+
+/*--//--*/
 
 
 
