@@ -1,0 +1,198 @@
+
+ 
+
+@media (max-width : 600px) {
+
+	/*header*/
+
+	.header-zag h1{
+		font-size: 100px;
+	}
+
+	.header_text{
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.form-1{
+		max-width: 320px;
+		width: 100%;
+		right: 0;
+	}
+
+	.form-2{
+		max-width: 320px;
+		right: 0;
+	}
+
+	
+	/*--//--*/
+
+	/*top-menu*/
+
+	.top-menu-zag{
+		font-size: 50px;
+	}
+
+	.top-navigation li{
+		max-width: 120px;
+	}
+
+	.top-navigation a{
+		padding: 10px;
+		font-size: 14px;
+	}
+
+	/*--//--*/
+
+	/*sublime*/
+
+	.sublime_row li{
+		height: 350px;
+	}
+
+	.sublime_zag_text{
+		display: block;
+	}
+
+	.sublime_zag{
+		padding: 20px;
+	}
+
+	.sublime_zag p{
+		font-size: 25px;
+	}
+
+	.sublime_zag h3{
+		font-size: 70px;
+	}
+
+	.sublime_text p{
+		font-size: 14px;
+		color: #595959;
+	}
+
+	.sublime_text .sublime_text_italic{
+		font-size: 16px;
+	}
+
+	.sublime_row{
+		margin-top: 25px;
+	}
+
+	/*--//--*/
+
+	/*Projects*/
+	.Projects_img_1{
+		width: 33%;
+	}
+	
+	/*--//--*/
+
+	/*Strategic-Process*/
+	/*--//--*/
+
+	/*blok-Services-Provided*/
+
+	.Services-Provided-zag{
+		max-width: 280px;
+		padding: 40px 0 0 0;
+		margin: 0 auto;
+	}
+
+	.Services-Provided-ul{
+		padding: 20px;
+	}
+
+	.Provided-ul-1,
+	.Provided-ul-2{
+		max-width: 230px;
+		width: 100%;
+		
+	}
+
+	.Services-Provided-ul p{
+		margin-bottom: 30px;
+	}
+	
+	/*--//--*/
+
+	/*blok-Our-Team*/
+
+	.Slaider-Our-Team-galeri-img.disp-non-2{
+		display: none;
+	}
+
+	/*--//--*/
+
+	/*blok-Testimonials*/
+
+	.John-Doe-foto{
+		width: 70%;
+	}
+
+	/*--//--*/
+
+	/*blok-Blogs*/
+
+	.blok-Blogs{
+		display: block;
+		padding: 0 0 20px 0;
+			
+	}
+
+	.Blogs{
+		max-width: 490px;
+		margin: 0 auto;
+		padding: 0;
+		text-align: center;
+	}
+
+	.Blogs-zag{
+		padding: 20px;
+		margin-bottom: 0;
+	}
+
+	.Blogs-menu{
+		padding-left: 0;
+	}
+
+	.Blogs-menu li{
+		margin-bottom: 0;
+		border: 1px solid #fff;
+		background: rgba(0, 14, 20, 0.5)
+	}
+
+	.Blogs-menu li:hover{
+		border: 1px solid #000;
+		background: rgba(0, 14, 20, 0.8)
+	}
+
+	.Blogs-menu a{
+		padding: 20px;
+	}
+
+	/*--//--*/
+
+	/*blok-Contact-Us*/
+
+	/*--//--*/
+
+	/*blok-We-create*/
+
+	.We-create-menu-navigation{
+		background: rgba(0, 14, 20, 0.8)
+	}
+
+	.We-create-bg-2-zag{
+		font-size: 60px;
+		padding:150px 80px 0 25px;
+	}
+	/*--//--*/
+
+	/*futer*/
+	/*--//--*/
+
+
+} 
+
