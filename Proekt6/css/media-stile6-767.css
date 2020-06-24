@@ -1,0 +1,161 @@
+
+
+@media (max-width : 767px) {
+
+	/*bloc-header*/
+
+	.bloc-header-menu-top{
+		display: block;
+	}
+
+	.header-menu_top li{
+		padding: 24px 15px 24px 5px;
+		
+	}
+
+	.header-menu_top a{
+		font-size: 10px;
+	}
+
+	.bloc-header_menu_account_link a{
+		font-size: 10px;
+	}
+
+
+	.bloc-header-menu-nav ul{
+		margin-top: 25px;
+	}
+
+
+	.bloc-header-title_zag{
+		font-size: 40px;
+	}
+
+	.bloc-header-title-poisk{
+	display: block;
+}
+
+	.bloc-header-poisk{
+		margin-top: 20px;
+	}
+
+
+	/*--/--*/
+
+	/*bloc-Support-Service*/
+
+	.bloc-Support-Service_slaider_list ul{
+		display: block;
+	}
+
+	.bloc-Support-Service_slaider_list li{
+		width: 90%;
+		margin: 15px 15px;
+	}
+
+	.Support-Service_list_text_italic{
+		margin-top: 10px;
+		padding-right: 10px;
+	}
+
+	.Support-Service_list_text_italic_slaider{
+		margin-top: 10px;
+		padding-right: 10px;
+	}
+
+	.Service_link{
+		margin-top: 15px;
+	}
+
+	.Support-Service_list_text{
+		margin-top: 10px;
+	}
+	/*--//--*/
+
+	/*professional-networking*/
+
+	.professional-networking-title_zag_text{
+		width: 65%;
+	}
+
+	.professional-networking_title_zag{
+		font-size: 25px;
+	}
+
+	.professional-networking_title_text{
+		font-size: 10px;
+	}
+
+	/*--//--*/
+
+	/*blok-info*/
+
+	.blok-info_ul{
+		display: block;
+	}
+
+	.blok-info_ul li{
+		max-width: 500px;
+		width: 90%;
+		margin-bottom: 15px;
+	}
+
+	.blok-info_zag{
+		font-size: 30px;
+		margin-bottom: 25px;
+	}
+
+	.blok-info_Solutions li{
+		margin-bottom: 25px;
+	}
+
+	.blok-info_Solutions_text span{
+		font-size: 16px;
+	}
+
+	.blok-info_Solutions_text{
+		font-size: 12px;
+	}
+
+	.blok-info_Solutions_link{
+		max-width: 80px;
+		margin: 0 auto;
+	}
+
+	.blok-info_Solutions_link a{
+		font-size: 16px;
+	}
+
+	.blok-info_Services_img_link{
+		margin-bottom: 20px;
+	}
+
+	.blok-info_Services_img_link a{
+		font-size: 14px;
+	}
+
+	/*--//--*/
+
+	/*bloc-futer*/
+	.bloc-futer-menu-social{
+		display: block;
+	}
+
+	.bloc-futer_menu{
+		width: 100%;
+	}
+
+	.bloc-futer-social{
+		margin-top: 20px;
+	}
+		/*--//--*/
+			
+} 
+
+
+
+
+
+ 
+
+

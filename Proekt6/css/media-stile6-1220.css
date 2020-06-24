@@ -1,0 +1,108 @@
+
+ 
+@media (max-width : 1220px) {
+
+	/*bloc-header*/
+	
+
+	.bloc-header_menu_account{
+		margin-right: 10px;
+	}
+
+	.bloc-header-menu-nav{
+		margin-right: 20px;
+	}
+
+	
+
+	.bloc-header-title-poisk{
+		margin-right: 20px;
+	}
+
+	.bloc-header-title_zag_text{
+		margin-left: 10px;
+	}
+
+	/*--/--*/
+
+	/*bloc-Support-Service*/
+	.bloc-Support-Service_slaider_list{
+		padding-left: 10px;
+	}
+
+	/*--//--*/
+
+	/*professional-networking*/
+
+	.professional-networking{
+		margin-top: 50px;
+	}
+
+	.professional-networking_title_zag{
+		font-size: 32px;
+	}
+
+	.professional-networking_title_text{
+		font-size: 12px;
+	}
+
+	/*--//--*/
+
+	/*blok-info*/
+
+	.blok-info{
+		padding: 0 10px 0 10px;
+	}
+
+	.blok-info_zag{
+		font-size: 25px;
+		margin-bottom: 35px;
+	}
+
+	.blok-info_Solutions li{
+		margin-bottom: 60px;
+	}
+
+	.blok-info_Solutions_text span{
+		font-size: 14px;
+	}
+
+	.blok-info_Solutions_text{
+		font-size: 10px;
+	}
+
+	.blok-info_Solutions_link a{
+		font-size: 14px;
+	}
+
+	.blok-info_Services_img_link{
+		margin-bottom: 19px;
+	}
+
+	.blok-info_Services_img{
+		margin-right: 15px;
+	}
+
+	
+
+	/*--//--*/
+
+	/*bloc-futer*/
+
+	.bg-bloc-futer{
+		
+		padding: 50px 0 50px 0;
+	}
+
+	.bloc-futer_menu_zag{
+		font-size: 20px;
+	}
+
+	.bloc-futer-social_zag{
+		font-size: 22px;
+	}
+
+	/*--//--*/
+
+} 
+
