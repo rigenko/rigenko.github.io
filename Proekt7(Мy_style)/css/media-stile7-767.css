@@ -1,0 +1,59 @@
+
+ /*	МЕДИА ДЛЯ blok-header*/
+
+ 
+
+
+
+@media (max-width : 767px) {
+
+	.bloc-header{
+		display: block;
+	}
+
+	.bloc-header_logo{
+		width: 30%;
+		margin: 0 auto;
+		text-align: center;
+		
+	}
+
+	
+
+	.bloc-header_text{
+		width: 100%;
+		margin-top: 20px;
+	}
+
+	.bloc-header_text p{
+		font-size: 11px;
+		color: #9b9fa0;
+		font-family: 'HelveticaNeueCyr';
+	}
+
+	/*--//--*/
+
+	/* bloc-menu-top*/
+
+	/*--//--*/
+
+	/*bloc-nav-slaid-news*/
+	.bloc-slajder_news_1 li{
+		max-width: 460px;
+		
+	}
+	 .bloc-navigation_news_1-2{
+		display: none;
+	}
+	
+	/*--//--*/
+	
+} 
+
+
+
+
+
+ 
+
+
