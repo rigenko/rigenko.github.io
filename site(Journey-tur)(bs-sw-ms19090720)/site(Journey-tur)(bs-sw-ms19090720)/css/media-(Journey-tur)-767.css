@@ -1,0 +1,134 @@
+
+@media (max-width : 767px) {
+	.fon-header-menu__img,
+	.polet-header,
+	.lainer-header,
+	.header-img{
+		display: none;
+	}
+
+	.fon-header-menu{
+		height: 520px;
+	}
+
+	.planeta-header{
+		max-width: 460px;
+		width: 100%;
+		left: 10px;
+		right: auto;
+		/*z-index: 5;*/
+	}
+
+	.header-menu {
+		top: 110px;
+		
+	}
+
+	.header-zag{
+		left: 10%;
+		font-size: 40px;
+		top: 350px;
+	}
+
+	.futer-bloc ul{
+		display: block;
+	}
+
+	/*----------------------our-services------------------*/
+
+	.services_zag{
+		font-size: 30px;
+	}
+
+	.blok-img-1_p{
+		font-size: 18px;
+	}
+
+	.blok-img-2{
+		margin:60px 0 0 25px;
+	}
+
+	.blok-img-3{
+		margin: 50px 0 0 100px;
+		
+	}
+
+	/*-------------------------------------pricing*/
+
+	.pricing-zag{
+		font-size: 30px;
+		margin-left: 30px;
+	}
+
+	.pricing-menu{
+		position: inherit;
+		margin-left: 10px;
+	}
+
+	.pricing-menu ul{
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+	}
+
+	.Europe,
+	.Asia,
+	.Africa	{
+		margin:0 auto;
+		font-size: 30px;
+	}
+
+	.navigation-list{
+		position: inherit;
+		left: 0;
+		top: 0;
+		position: relative;
+	}  
+
+	.navigation-list ul{
+		display: block;
+	}
+
+	.navigation-list_1 a{
+		padding: 10px;
+		font-size: 18px;
+	}
+
+	.navigation-list_1__none a{
+		font-size: 16px;
+	}
+
+	.navigation-list_1__none{
+		position: absolute;
+		top: 20px;
+		left: 65%;
+		
+	}
+	.bg-pricing-menu{
+	display: none;
+}
+
+	/*------------------------Contact------------------*/
+	.Contact-list{
+		width: 90%;
+		margin-right: 0;
+		margin-left: auto;
+		padding-top: 30px;
+	}
+
+	/*pricing-slaider*/
+	.bloc-slaider{
+		display: block;
+		margin-top: 20px;
+	}
+} 
+
+
+
+
+
+ 
+
+

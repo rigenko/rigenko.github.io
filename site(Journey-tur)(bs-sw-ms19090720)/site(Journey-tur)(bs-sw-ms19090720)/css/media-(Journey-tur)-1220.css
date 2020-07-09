@@ -1,0 +1,41 @@
+
+ @media (max-width : 1220px) {
+
+	}
+
+	/*----------------------our-services------------------*/
+
+
+.home{
+	margin-left: 20px;
+}
+
+.blok-img-1_p{
+	margin-left: 50px;
+}
+
+.blok-img-2{
+	margin:180px 0 0 65px;
+}
+
+.blok-img-3{
+	margin-left: 400px;
+}
+
+/*footer*/
+
+.footer{
+	height: 300px;
+}
+
+/*----------------------------pricing*/
+
+.pricing{
+	padding-right: 130px;
+}
+.pricing-blok{
+	display: block;
+}
+
+
+
