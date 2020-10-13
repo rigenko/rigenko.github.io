@@ -1,0 +1,86 @@
+
+
+@media (max-width : 767px) {
+
+	/*header*/
+	/**/
+
+	/*bloc-2*/
+	.bloc-2_img_description{
+		display: block;
+	}
+
+	.bloc-2_img,
+	.bloc-2_description{
+		width: 80%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	
+	/**/
+
+	/*bloc-3*/
+
+	.bloc-3-row{
+		display: block;
+	}
+
+	.bloc-3_img,
+	.bloc-3_img_text{
+		max-width: 250px;
+		width: 100%;
+	}
+
+	.bloc-3_text p{
+		font-size: 20px;
+		margin:15px;
+	}
+	/**/
+
+	/*bloc-4*/
+	/**/
+
+	/*bloc-5*/
+	/**/
+
+	/*bloc-6*/
+	/**/
+
+	/*bloc-7*/
+	/**/
+
+	/*bloc-8*/
+	.Contact-ofis{
+		display: block;
+	}
+
+	.Contact-ofis_form{
+		margin-top: 15px;
+	}
+	/**/	
+
+	/*blok-Testimonials*/
+
+	.bloc-John-Doe{
+		max-width: 500px;
+	}
+	/**/
+
+	/*futer*/
+
+	.futer-bloc ul{
+		display: block;
+	}
+
+	
+	/**/
+			
+} 
+
+
+
+
+
+ 
+
+

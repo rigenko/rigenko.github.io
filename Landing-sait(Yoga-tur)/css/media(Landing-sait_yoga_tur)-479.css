@@ -1,0 +1,128 @@
+
+ 
+
+@media (max-width : 479px) {
+
+	/*header*/
+
+	.header{
+		display: block;
+	}
+	.header_logo,
+	.header-contact{
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+
+	.header-contact_text p{
+		font-size: 20px;
+	}
+
+	.header-contact_phone p{
+		font-size: 28px;
+	}
+
+	.header_zag h1{
+		margin-top: 70px;
+		font-size: 35px;
+	}
+
+	.header_bootom{
+		margin-top: 50px;
+	}
+
+	.header_socium{
+		margin-top: 50px;
+	}
+
+	/**/
+
+	/*bloc-2*/
+	.bloc-2{
+		padding: 20px;
+	}
+
+	.bloc_description_zag h3{
+		font-size: 25px;
+	}
+
+	.bloc-2_description_text p{
+		font-size: 16px;
+	}
+	/**/
+
+	/*bloc-3*/
+	.bloc-4_img_row__element_1,
+	.bloc-4_img_row__element_2,
+	.bloc-4_img_row__element_3{
+		padding: 10px;
+	}
+	/**/
+
+	/*bloc-4*/
+	/**/
+
+	/*bloc-5*/
+	/**/
+
+	/*bloc-6*/
+
+	.bloc-6_rigt{
+		max-width: 300px;
+	}
+	/**/
+
+	/*bloc-7*/
+
+	.bloc-7{
+		padding-top: 100px;
+	}
+
+	.bloc-7_img{
+		margin-top: 60px;
+	}
+
+	.bloc-6_description__text p{
+		font-size: 18px;
+	}
+
+	.bloc-6_bootom{
+		margin-top: 150px;
+	}
+	/**/
+
+	/*bloc-8*/
+	.Contact{
+		padding: 10px;
+	}
+
+	.Contact-ofis_main__pfone_name{
+		font-size: 14px;
+	}
+
+	.Contact-ofis_main__pfone_number{
+		font-size: 14px;
+	}
+
+	.forma_bloc input{
+		width: 100%;
+	}
+
+	.Contact-assessment img{
+		height: 40px;
+		width: 15%;
+	}
+	/**/
+
+	/*blok-Testimonials*/
+	.John-Doe{
+		display: block;
+	}
+	
+	/**/
+
+	/*futer*/
+	/**/
+}
+
+	
