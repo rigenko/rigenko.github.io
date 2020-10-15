@@ -1,0 +1,42 @@
+
+ 
+
+@media (max-width : 1220px) {
+
+	/*header*/
+
+	/*--//--*/
+
+	/*bloc-app-store*/
+
+	/*--//--*/
+
+	/*services*/
+
+	/*--//--*/
+	/*shares*/
+	.shares-block{
+		display: block;
+		padding: 15px;
+	}
+	.shares-description,
+	.shares-form{
+		width: 90%;
+		margin: 0 auto;
+	}
+	.shares-form{
+		margin-top: 20px;
+	}
+	/*--//--*/
+	/*blok-Testimonials*/
+	/*--//--*/
+	/*blok-Contact-Us*/
+	.Contact-list_blok_content{
+		display: block;
+	}
+	/*--//--*/
+	/*footer*/
+	/*--//--*/
+
+} 
+

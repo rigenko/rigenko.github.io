@@ -1,0 +1,112 @@
+
+ 
+
+@media (max-width : 767px) {
+
+	
+	/*header*/
+
+	.header-logo-menu{
+		padding: 15px 15px 20px 15px;
+	}
+
+	/*--//--*/
+
+	/*bloc-app-store*/
+
+	.bloc-app-store-description-img{
+		padding: 40px 15px 100px 15px;
+	}
+
+	.bloc-app-store-button-img{
+		padding-top: 260px;
+	}
+
+	.bloc-app-store-button_img,
+	.bloc-app-store-img{
+		display: none;
+	}
+
+	.bloc-app-store-button{
+		margin: 0 auto;
+	}
+
+	.bloc-app-store-button_text{
+		width: 60%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	
+	.bloc-app-store-button_text span{
+		font-size: 25px;
+	}
+
+	/*--//--*/
+
+	/*services*/
+	
+	.services{
+		padding: 50px 15px 50px 15px;
+		
+	}
+
+	.services-list ul{
+		display: block;
+	}
+
+	.services-list li{
+		max-width: 450px;
+		margin: 0 auto;
+		text-align: center;
+		margin-bottom: 40px;
+	}
+
+	.services-list_img_zag{
+		width: 70%;
+		margin: 0 auto;
+	}
+
+	/*--//--*/
+	/*shares*/
+	/*--//--*/
+	/*blok-Testimonials*/
+	/*--//--*/
+	/*blok-Contact-Us*/
+	.blok-Contact-Us{
+		display: block;
+	}
+
+	.blok-mapa,
+	.Contact-Us{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	/*--//--*/
+	/*footer*/
+
+	.footer-menu-social{
+		display: block;
+	}
+
+	
+
+	.footer-social{
+		width: 40%;
+		margin: 0 auto;
+		margin-top: 20px;
+		text-align: center;
+	}
+
+		/*--//--*/
+
+
+} 
+
+
+
+
+
+ 
+
+

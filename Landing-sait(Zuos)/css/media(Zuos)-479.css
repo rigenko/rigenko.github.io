@@ -1,0 +1,134 @@
+
+ 
+@media (max-width : 479px) {
+
+	/*header*/
+
+
+	.header-logo-menu{
+		display: block;
+	}
+
+	.header-logo{
+		margin: 0 auto;
+	}
+
+	.header-menu{
+		max-width: 310px;
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 15px;
+	}
+
+	/*--//--*/
+
+	/*bloc-app-store*/
+
+	.bloc-app-store-button-img{
+		padding-top: 350px;
+	}
+
+	/*--//--*/
+
+	/*services*/
+	
+	.services-list_img_zag{
+		width: 90%;
+		margin: 0 auto;
+	}
+
+	.services-list_img{
+		margin-right: 10px;
+	}	
+
+	.services-list_zag{
+		font-size: 22px;
+	}
+
+	/*--//--*/
+	/*shares*/
+	.shares-description_img_text{
+		display: block;
+	}
+	.shares-description_img,
+	.shares-description_text{
+		width: 90%;
+		margin: 0 auto;
+	}
+	/*--//--*/
+	/*blok-Testimonials*/
+
+	.John-Doe{
+		display: block;
+		margin-bottom: 15px;
+	}
+
+	.blok-Testimonials-zag{
+		padding: 30px 0 20px 0;
+	}
+
+	.John-Doe-text{
+		text-align: center;
+		padding: 20px 0 20px 0;
+	}
+
+	.John-Doe-foto{
+		width: 100%;
+	}
+
+	/*--//--*/
+	/*blok-Contact-Us*/
+	
+	.blok-form-Map-log{
+		width: 90%;
+	}
+
+	.forma-zakaza_button{
+		margin: 0 auto;
+	}
+
+	.Location-Map{
+		width: 90%;
+		padding:30px 0 20px 0;
+	}
+
+	.Address{
+		margin-bottom: 35px;
+	}
+	
+	.Phone{
+		margin-bottom: 25px;
+	}
+
+	.cocium-log{
+		width: 100%;
+		border-top: 2px solid #7386bc;
+		margin: 0 auto; 
+		padding-bottom: 15px;
+	}
+	
+	/*--//--*/
+	/*footer*/
+
+	.footer-menu ul{
+		display: block;
+	}
+
+	.footer-menu li{
+		max-width: 300px;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.footer-menu_zag{
+		width: 80%;
+		font-size: 18px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	
+	/*--//--*/
+}
+
+	
