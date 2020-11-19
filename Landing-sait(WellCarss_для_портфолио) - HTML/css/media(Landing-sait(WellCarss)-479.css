@@ -1,0 +1,143 @@
+
+@media (max-width : 479px) {
+	/*header*/
+
+	.header-kontact{
+		display: block;
+	}
+	.header-kontact__text p{
+		font-size: 18px;
+	}
+	/**/
+	/*top-meny*/
+	/**/
+	/*top-slaider*/
+	.top-slaider__zag h1{
+		font-size: 32px;
+	}
+	.top-slaider__zag span{
+		font-size: 32px;
+	}
+	.top-slaider__description{
+		font-size: 18px;
+	}
+	.top-slaider__description span{
+		font-size: 22px;
+	}
+	.top-slaider_services__text{
+		font-size: 20px;
+	}
+	/**/
+	/*top-form*/
+	.top-form{
+		max-width: 300px;
+		position: static;
+	}
+	/**/
+	/*img-dekor*/
+	/**/
+	/*services*/
+	.bg-services{
+		padding: 10px 0 30px 0;
+	}
+	.services-zag h3{
+		font-size: 25px;
+	}
+	
+	.services-row li{
+		max-width: 300px;
+	}
+	/**/
+	/*slaider-2*/
+	.slaider-2-img__bloc-icon,
+	.slaider-2-img__bloc-icon-2{
+		max-width: 50px;
+		height: 50px;
+	}
+	.slaider-2-img__bloc-icon p,
+	.slaider-2-img__bloc-icon-2 p{
+		font-size: 12px;
+	}
+	/**/
+	/*prices*/
+	.prices-zag h3{
+		font-size: 25px;
+	}
+	.prices-zag span{
+		font-size: 28px;
+	}
+	.prices-row__zag-suma{
+		display: block;
+	}
+	.prices-row__zag{
+		margin-bottom: 20px;
+	}
+	.prices-row__botom a{
+		font-size: 14px;
+	}
+	/**/
+	/*advantages*/
+	.advantages-row__text{
+		font-size: 16px;
+	}
+	/**/
+	/*registration*/
+	.registration-description__number{
+		font-size: 28px;
+		margin-right: 10px;
+	}
+	.registration-description__title{
+		margin-bottom: 20px;
+	}
+	.registration-description__title h4{
+		font-size: 20px;
+	}
+	/**/
+	/*working*/
+	.bg-working{
+		padding: 20px 10px 20px 10px;
+	}
+	.working-description__title h4{
+		font-size: 22px;
+	}
+	/**/
+	/*partners*/
+	.partners-title h3{
+		font-size: 25px;
+	}
+	.partners-row ul{
+		display: block;
+	}
+	.partners-row li{
+		margin-bottom: 20px;
+	}
+	.partners-questions-bloc__title h4{
+		font-size: 25px;
+	}
+	.partners-questions__link{
+		margin-top: 15px;
+	}
+	/**/
+	/*contacts*/
+	.contacts-blok{
+		padding: 10px 0 30px 10px;
+	}
+	.contacts-blok__title h4{
+		font-size: 32px;
+	}
+	/**/
+	/*footer*/
+	.footer-link ul{
+		display: block;
+		margin-top: 20px;
+	}
+	.footer-link a{
+		display: block;
+		text-align: center;
+	}
+	.footer-contacts{
+		display: block;
+	}
+	/**/
+}
+	

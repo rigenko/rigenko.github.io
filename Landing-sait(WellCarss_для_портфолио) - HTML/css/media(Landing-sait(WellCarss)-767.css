@@ -1,0 +1,147 @@
+
+
+@media (max-width : 767px) {
+
+	/*header*/
+	.header{
+		display: block;
+	}
+	.header-logo{
+		margin: 0 auto;
+	}
+	.header-kontact{
+		display: flex;
+		margin-top: 20px;
+	}
+	.header-bootom{
+		margin: 0 auto;
+	}
+	/**/
+	/*top-meny*/
+	.bg-top-meny{
+		margin-top: 20px;
+	}
+	/**/
+	/*top-slaider*/
+ 	/**/
+ 	/**/
+ 	/*top-form*/
+	.top-form{
+		max-width: 500px;
+
+	}
+	.top-form_zag{
+		font-size: 25px;
+	}
+	.form-1 button {
+		max-width: 345px;
+		width: 100%;
+		padding: 20px 0 20px 0;
+		margin-left: 0;
+	}
+	/**/
+	/*img-dekor*/
+	/**/
+	/*services*/
+	.bg-services{
+		padding: 300px 0 35px 0;
+	}
+	
+	.services-row ul{
+		display: block;
+	}
+	.services-row li{
+		max-width: 500px;
+		display: flex;
+		align-items: flex-end;
+		padding: 15px;
+		box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.6);
+		border-radius: 0 0 10px 5px;
+	}
+	.services-row__img{
+		max-width: 60px;
+		margin-right: 15px;
+	}
+	.services-row__link{
+		max-width: 105px;
+		width: 100%;
+		margin-left: auto;
+		margin-right: 0;
+	}
+	/**/
+	/*slaider-2*/
+	.bg-slaider-2{
+		padding: 20px 0 20px 0;
+	}
+	.slaider-2-img__bloc-icon,
+	.slaider-2-img__bloc-icon-2{
+		max-width: 70px;
+		height: 70px;
+	}
+	.slaider-2-img__bloc-icon p,
+	.slaider-2-img__bloc-icon-2 p{
+		font-size: 16px;
+	}
+	/**/
+	/*prices*/
+	.prices-zag h3{
+		font-size: 30px;
+	}
+	.prices-zag span{
+		font-size: 35px;
+	}
+	/**/
+	/*advantages*/
+	/**/
+	/*registration*/
+	.bg-registration{
+		margin: 50px 0 50px 0;
+	}
+	.registration{
+		display: block;
+	}
+	.registration-form{
+		margin: 0 auto;
+	}
+	.registration__form{
+		margin-bottom: 40px;
+	}
+	/**/
+	/*working*/
+	/**/
+	/*partners*/
+	.partners-title h3{
+		font-size: 28px;
+	}
+	.partners-questions{
+		display: flex;
+		margin-top: 30px;
+	}
+	.partners-questions__zag h4{
+		font-size: 18px;
+	}
+	.partners-questions-bloc__title h4{
+		font-size: 25px;
+	}
+	.partners-questions__list{
+		width: 100%;
+	}
+	/**/
+	/*contacts*/
+	.contacts-blok{
+		position: static;
+		margin: 20px;
+	}
+	/**/
+	/*footer*/
+	/**/
+			
+} 
+
+
+
+
+
+ 
+
+

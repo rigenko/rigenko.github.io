@@ -1,0 +1,99 @@
+
+ 
+
+@media (max-width : 1280px) {
+	.section{
+		max-width: 1280px;
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.container{
+		max-width: 1200px;
+		width: 100%;
+		margin: 0 auto;
+	}
+	/*header*/
+	/**/
+	/*top-meny*/
+	.top-meny{
+		position: relative;
+	}
+	.top-meny-icon{
+		display: block;
+	}
+	.top-meny-link{
+		display: none;
+	}
+	.top-meny-link ul{
+		max-width: 240px;
+		width: 100%;
+		left: auto;
+		right: 50px;
+		background: #262c34;
+		position: absolute;
+		border-radius: 0 0 0 20px;
+		z-index: 10;
+		display: block;
+	}
+	.top-meny-link ul ul{
+		position: absolute;
+		right: 220px;
+	}
+	.top-meny-icon:hover{
+		background-color: #fff;
+	}
+	.top-meny:hover .top-meny-link {
+		display: block;
+	}
+ 	/**/
+ 	/*top-slaider*/
+ 	/**/
+ 	/*top-form*/
+	.top-form{
+		max-width: 900px;
+	}
+	.form-1 input{
+		max-width: 345px;
+		width: 100%;
+		padding: 10px 8px;
+		margin-bottom: 20px;
+	}
+	.form-1 button {
+		max-width: 345px;
+		width: 100%;
+		padding: 20px 0 20px 0;
+		margin-left: 200px;
+	}
+	/**/
+	/*services*/
+	.bg-services{
+		padding: 420px 10px 35px 10px;
+	}
+	/**/
+	/*slaider-2*/
+	/**/
+	/*prices*/
+	/**/
+	/*advantages*/
+	.advantages{
+		padding: 20px;
+	}
+	/**/
+	/*registration*/
+	.form-1--margin button{
+		margin-left: 0;
+	}
+	/**/
+	/*working*/
+	/**/
+	/*partners*/
+	/**/
+	/*contacts*/
+	/**/
+	/*footer*/
+	/**/
+
+} 
+
+

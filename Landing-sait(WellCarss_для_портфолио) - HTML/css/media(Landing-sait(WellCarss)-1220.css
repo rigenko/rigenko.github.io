@@ -1,0 +1,149 @@
+
+ 
+@media (max-width : 1220px) {
+
+	/*header*/
+
+	.header-kontact{
+		display: block;
+	}
+	.header-kontact__bloc{
+		margin-bottom: 20px;
+	}
+	/**/
+	/*top-meny*/
+	/**/
+	/*top-slaider*/
+	.top-slaider__zag h1{
+		font-size: 38px;
+	}
+	.top-slaider__zag span{
+		font-size: 38px;
+	}
+	.top-slaider__description{
+		font-size: 18px;
+		margin-bottom: 30px;
+	}
+	.top-slaider__description span{
+		font-size: 25px;
+	}
+	.top-slaider_services__text{
+		font-size: 16px;
+	}
+	/**/
+	/*top-form*/
+	.top-form{
+		max-width: 600px;
+		top: 650px;
+	}
+	
+	.form-1 button {
+		max-width: 345px;
+		width: 100%;
+		padding: 20px 0 20px 0;
+		margin-left: 0;
+	}
+	/**/
+	/*img-dekor*/
+	/**/
+	/*services*/
+	/**/
+	/*slaider-2*/
+	.slaider-2{
+		display: block;
+	}
+
+	.slaider-2_bloc{
+		max-width: 770px;
+		width: 100%;
+		padding: 20px;
+		text-align: center;
+	}
+	.slaider-2__img__bloc-icon,
+	.slaider-2__img__bloc-icon-2{
+		max-width: 80px;
+		height: 80px;
+	}
+	.slaider-2__img__bloc-icon p,
+	.slaider-2__img__bloc-icon-2 p{
+		font-size: 18px;
+	}
+	/**/
+	/*prices*/
+	.prices{
+		padding: 20px;
+	}
+	
+	.prices-zag h3{
+		text-align: center;
+	}
+	
+	.prices-row{
+		display: block;
+	}
+	.prices-row__botom{
+		margin: 0 auto;
+	}
+	/**/
+	/*advantages*/
+	
+	.advantages-row ul{
+		display: block;
+	}
+	.advantages-row li{
+		max-width: 600px;
+		margin-bottom: 20px;
+	}
+	.advantages-row__img{
+		display: none;
+	}
+	/**/
+	/*registration*/
+	.form-1--margin button{
+		margin-left: 0;
+	}
+	/**/
+	/*working*/
+	.bg-working{
+		padding: 100px 10px 100px 10px;
+	}
+	.working-img{
+		display: none;
+	}
+	/**/
+	/*partners*/
+	.bg-partners{
+		padding: 50px 20px 50px 20px;
+	}
+	.partners-title h3{
+		font-size: 32px;
+	}
+	.partners-questions{
+		display: flex;
+		margin-top: 60px;
+	}
+	.partners-questions-bloc__title h4{
+		font-size: 32px;
+	}
+	.partners-questions__list{
+		width: 100%;
+	}
+	/**/
+	/*contacts*/
+	/**/
+	/*footer*/
+	.footer{
+		padding: 20px;
+		display: block;
+	}
+	.logo--widht{
+		max-width: 50px;
+	}
+	.footer-link{
+		margin: 0 auto;
+	}
+	/**/
+
+
+} 
+
