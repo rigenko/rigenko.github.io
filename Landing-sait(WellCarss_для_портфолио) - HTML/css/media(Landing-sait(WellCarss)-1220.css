@@ -45,6 +45,12 @@
 	}
 	/**/
 	/*img-dekor*/
+	.img-dekor-1,
+	.img-dekor-2,
+	.img-dekor-3,
+	.img-dekor-4{
+		display: none;
+	}
 	/**/
 	/*services*/
 	/**/
