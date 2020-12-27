@@ -1,0 +1,110 @@
+
+
+@media (max-width : 767px) {
+	/*1. essential elements*/
+	.contacts__icon{
+		margin-right: 10px;
+	}
+	.contacts__icon i{
+		font-size: 18px;
+	}
+	.contacts__text a{
+		font-size: 14px;
+	}
+	.dekor-block{
+		border-right: 400px solid transparent;
+	}
+	/*2. header*/
+	.header-meny-navigation{
+		display: none;
+	}
+	.header-meny__contacts-block--border{
+		border: none;
+ 	}
+ 	/*3. slider*/
+ 	/*4. Objectives*/
+ 	.Objectives-row-bock{
+ 		display: block;
+ 	}
+ 	/*5. advantages*/
+ 	.advantages-block__list{
+ 		display: block;
+ 	}
+ 	.advantages-block__list-blok{
+ 		width: 100%;
+ 		margin-bottom: 20px;
+ 	}
+ 	.button--advantages{
+		margin: 0 auto;
+	}
+	/*6. price*/
+	.price-block{
+		display: block;
+	}
+	.title--price{
+		font-size: 28px;
+	}
+	.description--price{
+		font-size: 18px;
+	}
+	.price__soum p{
+		font-size: 70px;
+	}
+	.price-box{
+		margin-bottom: 30px;
+	}
+	/*7. proposition*/
+	.proposition{
+		height: auto;
+	}
+	.proposition__list{
+		display: block;
+
+	}
+	.proposition__description{
+		position: static;
+		max-width: 400px;
+		margin-top: 20px;
+		margin-left: 0;
+	}
+	.proposition-icon{
+		padding-top: 40px;
+	}
+	.proposition__icon{
+		margin: 0 0 0 50%;
+	}
+	/*8. about-us*/
+	/*9. comment*/
+	/*10. contacts*/
+	.contacts-box{
+		display: block;
+	}
+	.contacts__block{
+		margin-bottom: 30px;
+	}
+	/*11. footer*/
+	.footer-top__phone{
+		max-width: 240px;
+	}
+	.footer-info{
+		display: block;
+	}
+	.footer-social,
+	.footer-social__link,
+	.footer-social__naw{
+		max-width: 500px;
+		margin-bottom: 20px;
+	}
+	.header-meny-navigation--footer{
+		display: block;
+	}
+
+} 
+
+
+
+
+
+ 
+
+

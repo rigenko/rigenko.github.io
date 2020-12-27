@@ -1,0 +1,87 @@
+
+ 
+@media (max-width : 1220px) {
+	/*1. essential elements*/
+	.dekor-block{
+		border-right: 600px solid transparent;
+	}
+	/*2. header*/
+	.header{
+		display: block;
+	}
+	.header-login{
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+	/*3. slider*/
+	.slider-content{
+		display: block;
+	}
+	.slider-content__content{
+		margin-top: 20px;	
+	}
+	.title--slider{
+		margin-bottom: 0;
+	}
+	.title--slider h2{
+		font-size: 50px;
+	}
+	.description--slider,
+	.text--slider{
+		margin-left: 20px;
+	}
+	.description--slider{
+		font-size: 22px;
+	}
+	.button--slider{
+		margin-top: 20px;
+	}
+	/*4. Objectives*/
+	.title--Objectives{
+		font-size: 20px;
+	}
+	.text--Objectives{
+		font-size: 16px;
+		
+	}
+	/*5. advantages*/
+	.advantages{
+		padding: 0 20px 40px 20px;
+	}
+	/*6. price*/
+	.title--price{
+		font-size: 22px;
+	}
+	.description--price{
+		font-size: 16px;
+	}
+	.price__soum p{
+		font-size: 40px;
+	}
+	/*7. proposition*/
+	.proposition__description{
+		max-width: 200px;
+	}
+	/*8. about-us*/
+	/*9. comment*/
+	.comment{
+		padding: 40px 10px 90px 10px;
+	}
+	.comment__box{
+		display: block!important;
+	}
+	.comment__slide{
+		max-width: 600px;
+		margin: 20px auto;
+	}
+	.comment__photo{
+		margin-left: 10px;
+	}
+	.comment-text{
+		width: 90%;
+	}
+	/*10. contacts*/
+	/*11. footer*/
+} 
+

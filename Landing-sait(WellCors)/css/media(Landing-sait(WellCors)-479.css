@@ -1,0 +1,109 @@
+
+@media (max-width : 479px) {
+	/*1. essential elements*/
+	.title--size{
+		font-size: 40px;
+	}
+	.button a{
+		padding: 15px 0;
+		font-size: 16px;
+	}
+	.dekor-block{
+		border-right: 100px solid transparent;
+	}
+	/*2. header*/
+	.header-login{
+		position: static;
+		border: none;
+		margin: 10px auto;
+	}
+	.header-logo,
+	.header-login{
+		padding: 0;
+		height: auto;
+	}
+	.header-meny__contacts{
+		display: block;
+	}
+	.header-meny__contacts-block--border{
+		display: flex;
+		max-width: 200px;
+		width: 100%;
+		margin: 0 auto;
+ 	}
+ 	.header-meny__contacts-block{
+ 		max-width: 200px;
+ 		margin-bottom: 10px;
+ 	}
+ 	/*3. slider*/
+	
+	.slider-content__content{
+		margin-top: 10px;	
+	}
+	.title--slider h2{
+		font-size: 40px;
+	}
+	.description--slider{
+		font-size: 18px;
+	}
+	.text--slider{
+		font-size: 14px;
+	}
+	.button--slider{
+		margin-top: 15px;
+	}
+
+	/*4. Objectives*/
+	.Objectives-row-bock{
+		margin-top: 20px;
+	}
+ 	.title--Objectives{
+ 		font-size: 25px;
+ 	}
+ 	.Objectives-row ul{
+ 		display: block;
+ 	}
+ 	.Objectives-row li{
+ 		margin-bottom: 20px;
+ 	}
+ 	.title--Objectives{
+		font-size: 22px;
+	}
+	.text--Objectives{
+		font-size: 16px;
+	}
+	/*5. advantages*/
+	.advantages__icon{
+		display: none;
+	}
+	.advantages-content__img{
+ 		margin-left: 0;
+ 	}
+ 	/*6. price*/
+ 	/*7. proposition*/
+ 	.proposition-block-1{
+ 		margin-top: 0;
+		margin-bottom: 180px;
+	}
+ 	.proposition__list{
+		display: block;
+	}
+	.proposition-icon{
+		margin: 0 auto;
+	}
+	/*8. about-us*/
+	.about-us__data-block{
+		display: block;
+	}
+	/*9. comment*/
+	.comment-text{
+		margin: 10px;
+		width: 90%;
+	}
+	.comment__name{
+		max-width: 240px;
+	}
+	/*10. contacts*/
+	/*11. footer*/
+}
+	
